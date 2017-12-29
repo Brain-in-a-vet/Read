@@ -8,6 +8,7 @@ class AuthorModel(models.Model):
     authorName=models.CharField(max_length=500) 
     authorCode=models.CharField(max_length=500) 
     desc=models.CharField(max_length=5000)
+    imgpath=models.CharField(max_length=200)
 
 
 class NavModel(models.Model):
