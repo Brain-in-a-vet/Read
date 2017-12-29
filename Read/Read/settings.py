@@ -82,10 +82,10 @@ DATABASES = {
     #}
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'read',
-        'USER': 'root',
-        'PASSWORD': 'zuoLand8',
-        'HOST':'outmysql.mysql.rds.aliyuncs.com',
+        'NAME': '',
+        'USER': '',
+        'PASSWORD': '',
+        'HOST':'',
         'PORT':'3306',
     }
 }
@@ -136,7 +136,7 @@ SITE_ADDRESS_PRE='http'
 SITE_ADDRESS='localhost:8000'
 SITE_NAME='Read'
 
-SITE_FOOTER_EMAIL='zuoland@aliyun.com'
+SITE_FOOTER_EMAIL=''
 SITE_FOOTER_COMPANY='@Company 2017'
 
 
