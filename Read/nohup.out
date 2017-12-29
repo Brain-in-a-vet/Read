@@ -440,3 +440,9 @@ Not Found: /wls-wsat/CoordinatorPortType11
 [29/Dec/2017 14:04:38] "GET / HTTP/1.1" 200 6251
 Not Found: /bins.sh
 [29/Dec/2017 14:46:49] "GET /bins.sh HTTP/1.1" 404 2416
+Not Found: /cgi/common.cgi
+[29/Dec/2017 14:51:03] "GET /cgi/common.cgi HTTP/1.1" 404 2437
+Not Found: /command.php
+[29/Dec/2017 14:51:04] "POST /command.php HTTP/1.1" 404 2429
+[29/Dec/2017 16:19:23] "GET / HTTP/1.1" 200 6251
+[29/Dec/2017 16:28:56] "GET / HTTP/1.1" 200 6251
