@@ -25,7 +25,7 @@ SECRET_KEY = 'v%11h%jx!4((@02z**by3pfb-yl_!=%t%kh*c%6l2-6n+70c&n'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
@@ -133,7 +133,7 @@ STATIC_URL = '/static/'
 
 # WebSite Infomation
 SITE_ADDRESS_PRE='http'
-SITE_ADDRESS='localhost:8000'
+SITE_ADDRESS='47.94.228.162'
 SITE_NAME='Read'
 
 SITE_FOOTER_EMAIL=''
