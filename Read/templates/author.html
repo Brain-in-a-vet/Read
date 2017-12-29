@@ -1,0 +1,17 @@
+{% extends "authorBase.html" %}
+
+{% block navitem %}
+          <ul class="nav nav-pills flex-column">        
+             {% for item in NavItemList %} 
+                 {% ifequal forloop.counter 1 %}
+                        <li class="nav-item">
+                          <a class="nav-link active" href="{{SITE_ADDRESS_PRE}}://{{SITE_ADDRESS}}/authorNavItem/{{authorCode}}/{{ item.navCode }}//{{ item.itemCode}}">{{ item.itemName }} <span class="sr-only">(current)</span></a>
+                        </li>
+                 {% else %}
+                         <li class="nav-item">
+                          <a class="nav-link" href="{{SITE_ADDRESS_PRE}}://{{SITE_ADDRESS}}/authorNavItem/{{authorCode}}/{{ item.navCode }}//{{ item.itemCode}}">{{ item.itemName }}</a>
+                         </li>
+                 {% endifequal %}
+               {% endfor %}
+          </ul>
+{% endblock  %}
