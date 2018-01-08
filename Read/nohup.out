@@ -446,3 +446,2186 @@ Not Found: /command.php
 [29/Dec/2017 14:51:04] "POST /command.php HTTP/1.1" 404 2429
 [29/Dec/2017 16:19:23] "GET / HTTP/1.1" 200 6251
 [29/Dec/2017 16:28:56] "GET / HTTP/1.1" 200 6251
+[29/Dec/2017 16:53:34] "GET /static/res/bootstrap-4.0.0-beta.2/ecss/carousel.css HTTP/1.1" 304 0
+[29/Dec/2017 16:53:34] "GET /static/res/bootstrap-4.0.0-beta.2/assets/js/vendor/holder.min.js HTTP/1.1" 304 0
+[29/Dec/2017 16:53:34] "GET / HTTP/1.1" 200 6251
+[29/Dec/2017 16:53:34] "GET /static/res/bootstrap-4.0.0-beta.2/css/bootstrap.css HTTP/1.1" 200 159202
+[29/Dec/2017 16:53:34] "GET /static/res/bootstrap-4.0.0-beta.2/js/bootstrap.min.js HTTP/1.1" 200 50564
+[29/Dec/2017 16:53:34] "GET /static/res/bootstrap-4.0.0-beta.2/assets/js/vendor/popper.min.js HTTP/1.1" 200 19197
+Not Found: /favicon.ico
+[29/Dec/2017 16:53:37] "GET /favicon.ico HTTP/1.1" 404 2428
+[29/Dec/2017 16:53:43] "GET /author/huanglaozhuang HTTP/1.1" 301 0
+[29/Dec/2017 16:53:43] "GET /author/huanglaozhuang/ HTTP/1.1" 200 252068
+[29/Dec/2017 16:53:43] "GET /static/res/bootstrap-4.0.0-beta.2/ecss/dashboard.css HTTP/1.1" 200 837
+[29/Dec/2017 16:53:46] "GET / HTTP/1.1" 200 6251
+Performing system checks...
+
+System check identified no issues (0 silenced).
+December 29, 2017 - 11:12:33
+Django version 1.11.8, using settings 'Read.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CONTROL-C.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+December 29, 2017 - 16:56:14
+Django version 1.11.8, using settings 'Read.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CONTROL-C.
+[29/Dec/2017 17:02:39] "GET / HTTP/1.1" 200 6251
+[29/Dec/2017 17:02:42] "GET / HTTP/1.1" 200 6251
+[29/Dec/2017 17:21:35] "GET / HTTP/1.1" 200 6251
+[29/Dec/2017 17:44:03] "GET /static/res/bootstrap-4.0.0-beta.2/ecss/carousel.css HTTP/1.1" 304 0
+[29/Dec/2017 17:44:03] "GET /static/res/bootstrap-4.0.0-beta.2/css/bootstrap.css HTTP/1.1" 304 0
+[29/Dec/2017 17:44:03] "GET /static/res/bootstrap-4.0.0-beta.2/js/bootstrap.min.js HTTP/1.1" 304 0
+[29/Dec/2017 17:44:03] "GET /static/res/bootstrap-4.0.0-beta.2/assets/js/vendor/popper.min.js HTTP/1.1" 304 0
+[29/Dec/2017 17:44:03] "GET /static/res/bootstrap-4.0.0-beta.2/assets/js/vendor/holder.min.js HTTP/1.1" 304 0
+[29/Dec/2017 17:44:03] "GET / HTTP/1.1" 200 6251
+[29/Dec/2017 17:44:05] "GET / HTTP/1.1" 200 6251
+[29/Dec/2017 17:44:13] "GET / HTTP/1.1" 200 6251
+[29/Dec/2017 17:44:15] "GET / HTTP/1.1" 200 6251
+[29/Dec/2017 18:01:26] "GET /author/liucixin/ HTTP/1.1" 200 272960
+[29/Dec/2017 18:01:26] "GET /static/res/bootstrap-4.0.0-beta.2/css/bootstrap.css HTTP/1.1" 200 159202
+[29/Dec/2017 18:01:26] "GET /static/res/bootstrap-4.0.0-beta.2/ecss/dashboard.css HTTP/1.1" 200 837
+[29/Dec/2017 18:01:27] "GET /static/res/bootstrap-4.0.0-beta.2/assets/js/vendor/popper.min.js HTTP/1.1" 200 19197
+[29/Dec/2017 18:01:27] "GET /static/res/bootstrap-4.0.0-beta.2/js/bootstrap.min.js HTTP/1.1" 200 50564
+[29/Dec/2017 18:01:27] "GET /static/res/bootstrap-4.0.0-beta.2/assets/js/vendor/holder.min.js HTTP/1.1" 200 32283
+Not Found: /your-software/and-have-a-great-2018/from-the-folks-at-34c3
+[29/Dec/2017 18:16:03] "PATCH /your-software/and-have-a-great-2018/from-the-folks-at-34c3 HTTP/1.1" 404 2567
+Not Found: /strack/task/4_40_9.html
+[29/Dec/2017 18:50:23] "GET /strack/task/4_40_9.html HTTP/1.1" 404 2464
+[29/Dec/2017 19:30:00] "GET / HTTP/1.1" 200 6251
+Not Found: /strack/assets/4.html
+[29/Dec/2017 20:23:28] "GET /strack/assets/4.html HTTP/1.1" 404 2455
+Not Found: /cache/global/img/gs.gif
+[29/Dec/2017 20:34:36] "GET /cache/global/img/gs.gif HTTP/1.1" 404 2464
+Not Found: /cache/global/img/gs.gif
+[29/Dec/2017 23:49:51] "GET /cache/global/img/gs.gif HTTP/1.1" 404 2464
+[30/Dec/2017 00:21:21] "GET / HTTP/1.1" 200 6251
+[30/Dec/2017 03:04:28] "GET / HTTP/1.1" 200 6251
+Not Found: /rs-status
+[30/Dec/2017 03:05:00] "GET /rs-status HTTP/1.1" 404 2422
+Not Found: /phpmyadmin/
+[30/Dec/2017 03:05:27] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[30/Dec/2017 03:05:27] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /ganglia/index.php
+[30/Dec/2017 03:05:27] "GET /ganglia/index.php HTTP/1.1" 404 2446
+Not Found: /phpmyadmin/
+[30/Dec/2017 03:05:27] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[30/Dec/2017 03:05:27] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /phpmyadmin/
+[30/Dec/2017 03:05:27] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[30/Dec/2017 03:05:27] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /phpmyadmin/
+[30/Dec/2017 03:05:27] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[30/Dec/2017 03:05:27] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /phpmyadmin/
+[30/Dec/2017 03:05:27] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[30/Dec/2017 03:05:27] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /phpmyadmin/
+[30/Dec/2017 03:05:27] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[30/Dec/2017 03:05:27] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /phpmyadmin/
+[30/Dec/2017 03:05:28] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[30/Dec/2017 03:05:28] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /phpmyadmin/
+[30/Dec/2017 03:05:28] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[30/Dec/2017 03:05:28] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /phpmyadmin/
+[30/Dec/2017 03:05:28] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[30/Dec/2017 03:05:28] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /phpmyadmin/
+[30/Dec/2017 03:05:28] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[30/Dec/2017 03:05:28] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /index.php
+[30/Dec/2017 03:06:42] "GET /index.php HTTP/1.1" 404 2422
+Not Found: /jobs/
+[30/Dec/2017 03:08:22] "GET /jobs/ HTTP/1.1" 404 2410
+[30/Dec/2017 03:09:53] "GET / HTTP/1.1" 200 6251
+[30/Dec/2017 03:11:11] "GET / HTTP/1.1" 200 6251
+Not Found: /tzpmyobwcsfv
+[30/Dec/2017 03:11:17] "POST /tzpmyobwcsfv HTTP/1.1" 404 2432
+Not Found: /tzpmyobwcsfv
+[30/Dec/2017 03:11:17] "GET /tzpmyobwcsfv HTTP/1.1" 404 2431
+Not Found: /tzpmyobwcsfv
+[30/Dec/2017 03:11:17] "DELETE /tzpmyobwcsfv HTTP/1.1" 404 2434
+[30/Dec/2017 03:11:17] "GET / HTTP/1.1" 200 6251
+Not Found: /hwi/
+[30/Dec/2017 03:12:06] "GET /hwi/ HTTP/1.1" 404 2407
+[30/Dec/2017 03:13:04] "GET / HTTP/1.1" 200 6251
+Not Found: /master-status
+[30/Dec/2017 03:13:34] "GET /master-status HTTP/1.1" 404 2434
+Not Found: /dfshealth.html
+[30/Dec/2017 03:13:36] "GET /dfshealth.html HTTP/1.1" 404 2437
+Not Found: /http://47.94.228.162:8080
+[30/Dec/2017 03:13:42] "GET /http://47.94.228.162:8080 HTTP/1.1" 404 2470
+Not Found: /http://47.94.228.162:8081
+[30/Dec/2017 03:13:43] "GET /http://47.94.228.162:8081 HTTP/1.1" 404 2470
+Not Found: /http://47.94.228.162:8090
+[30/Dec/2017 03:13:43] "GET /http://47.94.228.162:8090 HTTP/1.1" 404 2470
+Not Found: /clusters.jsf
+[30/Dec/2017 03:13:47] "GET /clusters.jsf HTTP/1.1" 404 2431
+Not Found: /about/
+[30/Dec/2017 03:13:48] "GET /about/ HTTP/1.1" 404 2413
+[30/Dec/2017 03:13:51] "GET / HTTP/1.1" 200 6251
+Not Found: /jenkins/
+[30/Dec/2017 03:13:54] "GET /jenkins/ HTTP/1.1" 404 2419
+Not Found: /zabbix/
+[30/Dec/2017 03:14:02] "GET /zabbix/ HTTP/1.1" 404 2416
+[30/Dec/2017 03:14:02] "GET / HTTP/1.1" 200 6251
+Not Found: /solr/
+[30/Dec/2017 03:14:03] "GET /solr/ HTTP/1.1" 404 2410
+[30/Dec/2017 03:14:03] "GET / HTTP/1.1" 200 6251
+Not Found: /info
+[30/Dec/2017 03:14:10] "GET /info HTTP/1.1" 404 2407
+Not Found: /warning
+[30/Dec/2017 03:14:54] "GET /warning HTTP/1.1" 404 2416
+Not Found: /pleasereadthis
+[30/Dec/2017 03:14:59] "GET /pleasereadthis HTTP/1.1" 404 2437
+Not Found: /please_read/_search
+[30/Dec/2017 03:15:03] "GET /please_read/_search HTTP/1.1" 404 2452
+Not Found: /dfshealth.jsp
+[30/Dec/2017 03:15:07] "GET /dfshealth.jsp HTTP/1.1" 404 2434
+Not Found: /hadoop/dfshealth.jsp
+[30/Dec/2017 03:15:07] "GET /hadoop/dfshealth.jsp HTTP/1.1" 404 2455
+[30/Dec/2017 04:07:01] "GET / HTTP/1.1" 200 6251
+Not Found: /ccvv
+[30/Dec/2017 04:22:34] "GET /ccvv HTTP/1.1" 404 2407
+[30/Dec/2017 04:47:37] "GET / HTTP/1.1" 200 6251
+[30/Dec/2017 08:19:51] "GET / HTTP/1.1" 200 6251
+[30/Dec/2017 09:41:02] "GET / HTTP/1.1" 200 6251
+Not Found: /rs-status
+[30/Dec/2017 09:43:31] "GET /rs-status HTTP/1.1" 404 2422
+Not Found: /phpmyadmin/
+[30/Dec/2017 09:48:45] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[30/Dec/2017 09:48:45] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /phpmyadmin/
+[30/Dec/2017 09:48:45] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[30/Dec/2017 09:48:45] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /phpmyadmin/
+[30/Dec/2017 09:48:45] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[30/Dec/2017 09:48:45] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /phpmyadmin/
+[30/Dec/2017 09:48:45] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[30/Dec/2017 09:48:45] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /phpmyadmin/
+[30/Dec/2017 09:48:45] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[30/Dec/2017 09:48:45] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /phpmyadmin/
+[30/Dec/2017 09:48:45] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[30/Dec/2017 09:48:45] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /phpmyadmin/
+[30/Dec/2017 09:48:45] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[30/Dec/2017 09:48:45] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /phpmyadmin/
+[30/Dec/2017 09:48:45] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[30/Dec/2017 09:48:46] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /phpmyadmin/
+[30/Dec/2017 09:48:46] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[30/Dec/2017 09:48:46] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /phpmyadmin/
+[30/Dec/2017 09:48:46] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[30/Dec/2017 09:48:46] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /ganglia/index.php
+[30/Dec/2017 09:48:47] "GET /ganglia/index.php HTTP/1.1" 404 2446
+Not Found: /index.php
+[30/Dec/2017 10:00:38] "GET /index.php HTTP/1.1" 404 2422
+Not Found: /jobs/
+[30/Dec/2017 10:06:13] "GET /jobs/ HTTP/1.1" 404 2410
+[30/Dec/2017 10:10:03] "GET / HTTP/1.1" 200 6251
+Not Found: /hwfvasrcyzbu
+[30/Dec/2017 10:11:33] "POST /hwfvasrcyzbu HTTP/1.1" 404 2432
+Not Found: /hwfvasrcyzbu
+[30/Dec/2017 10:11:33] "GET /hwfvasrcyzbu HTTP/1.1" 404 2431
+Not Found: /hwfvasrcyzbu
+[30/Dec/2017 10:11:33] "DELETE /hwfvasrcyzbu HTTP/1.1" 404 2434
+[30/Dec/2017 10:13:41] "GET / HTTP/1.1" 200 6251
+[30/Dec/2017 10:15:39] "GET / HTTP/1.1" 200 6251
+Not Found: /hwi/
+[30/Dec/2017 10:17:31] "GET /hwi/ HTTP/1.1" 404 2407
+[30/Dec/2017 10:26:25] "GET / HTTP/1.1" 200 6251
+Not Found: /master-status
+[30/Dec/2017 10:28:09] "GET /master-status HTTP/1.1" 404 2434
+Not Found: /dfshealth.html
+[30/Dec/2017 10:28:11] "GET /dfshealth.html HTTP/1.1" 404 2437
+Not Found: /http://47.94.228.162:8080
+[30/Dec/2017 10:28:18] "GET /http://47.94.228.162:8080 HTTP/1.1" 404 2470
+Not Found: /http://47.94.228.162:8081
+[30/Dec/2017 10:28:21] "GET /http://47.94.228.162:8081 HTTP/1.1" 404 2470
+Not Found: /http://47.94.228.162:8090
+[30/Dec/2017 10:28:22] "GET /http://47.94.228.162:8090 HTTP/1.1" 404 2470
+Not Found: /clusters.jsf
+[30/Dec/2017 10:28:28] "GET /clusters.jsf HTTP/1.1" 404 2431
+Not Found: /about/
+[30/Dec/2017 10:28:31] "GET /about/ HTTP/1.1" 404 2413
+[30/Dec/2017 10:28:36] "GET / HTTP/1.1" 200 6251
+Not Found: /jenkins/
+[30/Dec/2017 10:28:42] "GET /jenkins/ HTTP/1.1" 404 2419
+Not Found: /zabbix/
+[30/Dec/2017 10:28:52] "GET /zabbix/ HTTP/1.1" 404 2416
+[30/Dec/2017 10:28:54] "GET / HTTP/1.1" 200 6251
+Not Found: /solr/
+[30/Dec/2017 10:28:55] "GET /solr/ HTTP/1.1" 404 2410
+[30/Dec/2017 10:28:58] "GET / HTTP/1.1" 200 6251
+Not Found: /info
+[30/Dec/2017 10:29:15] "GET /info HTTP/1.1" 404 2407
+Not Found: /pleasereadthis
+[30/Dec/2017 10:29:41] "GET /pleasereadthis HTTP/1.1" 404 2437
+Not Found: /please_read/_search
+[30/Dec/2017 10:29:46] "GET /please_read/_search HTTP/1.1" 404 2452
+Not Found: /dfshealth.jsp
+[30/Dec/2017 10:29:49] "GET /dfshealth.jsp HTTP/1.1" 404 2434
+Not Found: /hadoop/dfshealth.jsp
+[30/Dec/2017 10:29:49] "GET /hadoop/dfshealth.jsp HTTP/1.1" 404 2455
+[30/Dec/2017 12:12:21] "GET / HTTP/1.1" 200 6251
+Not Found: /rs-status
+[30/Dec/2017 12:13:31] "GET /rs-status HTTP/1.1" 404 2422
+Not Found: /ganglia/index.php
+[30/Dec/2017 12:14:01] "GET /ganglia/index.php HTTP/1.1" 404 2446
+Not Found: /phpmyadmin/
+[30/Dec/2017 12:14:02] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[30/Dec/2017 12:14:02] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /phpmyadmin/
+[30/Dec/2017 12:14:02] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[30/Dec/2017 12:14:02] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /phpmyadmin/
+[30/Dec/2017 12:14:02] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[30/Dec/2017 12:14:02] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /phpmyadmin/
+[30/Dec/2017 12:14:02] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[30/Dec/2017 12:14:02] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /phpmyadmin/
+[30/Dec/2017 12:14:02] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[30/Dec/2017 12:14:03] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /phpmyadmin/
+[30/Dec/2017 12:14:03] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[30/Dec/2017 12:14:03] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /phpmyadmin/
+[30/Dec/2017 12:14:03] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[30/Dec/2017 12:14:03] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /phpmyadmin/
+[30/Dec/2017 12:14:03] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[30/Dec/2017 12:14:03] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /phpmyadmin/
+[30/Dec/2017 12:14:03] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[30/Dec/2017 12:14:03] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /phpmyadmin/
+[30/Dec/2017 12:14:03] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[30/Dec/2017 12:14:03] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /index.php
+[30/Dec/2017 12:14:39] "GET /index.php HTTP/1.1" 404 2422
+Not Found: /jobs/
+[30/Dec/2017 12:16:02] "GET /jobs/ HTTP/1.1" 404 2410
+[30/Dec/2017 12:18:35] "GET / HTTP/1.1" 200 6251
+Not Found: /joymbdcqpvfg
+[30/Dec/2017 12:21:35] "POST /joymbdcqpvfg HTTP/1.1" 404 2432
+Not Found: /joymbdcqpvfg
+[30/Dec/2017 12:21:35] "GET /joymbdcqpvfg HTTP/1.1" 404 2431
+Not Found: /joymbdcqpvfg
+[30/Dec/2017 12:21:35] "DELETE /joymbdcqpvfg HTTP/1.1" 404 2434
+[30/Dec/2017 12:21:47] "GET / HTTP/1.1" 200 6251
+[30/Dec/2017 12:23:14] "GET / HTTP/1.1" 200 6251
+Not Found: /hwi/
+[30/Dec/2017 12:25:24] "GET /hwi/ HTTP/1.1" 404 2407
+[30/Dec/2017 12:30:53] "GET / HTTP/1.1" 200 6251
+Not Found: /master-status
+[30/Dec/2017 12:35:28] "GET /master-status HTTP/1.1" 404 2434
+Not Found: /dfshealth.html
+[30/Dec/2017 12:36:05] "GET /dfshealth.html HTTP/1.1" 404 2437
+Not Found: /http://47.94.228.162:8080
+[30/Dec/2017 12:37:59] "GET /http://47.94.228.162:8080 HTTP/1.1" 404 2470
+Not Found: /http://47.94.228.162:8081
+[30/Dec/2017 12:38:34] "GET /http://47.94.228.162:8081 HTTP/1.1" 404 2470
+Not Found: /http://47.94.228.162:8090
+[30/Dec/2017 12:39:28] "GET /http://47.94.228.162:8090 HTTP/1.1" 404 2470
+Not Found: /clusters.jsf
+[30/Dec/2017 12:41:57] "GET /clusters.jsf HTTP/1.1" 404 2431
+Not Found: /about/
+[30/Dec/2017 12:43:36] "GET /about/ HTTP/1.1" 404 2413
+[30/Dec/2017 12:44:47] "GET / HTTP/1.1" 200 6251
+Not Found: /jenkins/
+[30/Dec/2017 12:46:54] "GET /jenkins/ HTTP/1.1" 404 2419
+Not Found: /zabbix/
+[30/Dec/2017 12:51:15] "GET /zabbix/ HTTP/1.1" 404 2416
+[30/Dec/2017 12:52:56] "GET / HTTP/1.1" 200 6251
+Not Found: /solr/
+[30/Dec/2017 12:54:27] "GET /solr/ HTTP/1.1" 404 2410
+[30/Dec/2017 12:55:49] "GET / HTTP/1.1" 200 6251
+Not Found: /info
+[30/Dec/2017 13:01:35] "GET /info HTTP/1.1" 404 2407
+Not Found: /warning
+[30/Dec/2017 13:12:43] "GET /warning HTTP/1.1" 404 2416
+Not Found: /pleasereadthis
+[30/Dec/2017 13:17:01] "GET /pleasereadthis HTTP/1.1" 404 2437
+Not Found: /please_read/_search
+[30/Dec/2017 13:22:14] "GET /please_read/_search HTTP/1.1" 404 2452
+Not Found: /dfshealth.jsp
+[30/Dec/2017 13:28:06] "GET /dfshealth.jsp HTTP/1.1" 404 2434
+Not Found: /hadoop/dfshealth.jsp
+[30/Dec/2017 13:30:20] "GET /hadoop/dfshealth.jsp HTTP/1.1" 404 2455
+Not Found: /strack/Login/index.html
+[30/Dec/2017 14:29:21] "GET /strack/Login/index.html HTTP/1.1" 404 2464
+[30/Dec/2017 16:30:59] "GET / HTTP/1.1" 200 6251
+Not Found: /forgetPassword
+[30/Dec/2017 16:35:47] "GET /forgetPassword HTTP/1.1" 404 2437
+[30/Dec/2017 16:36:31] "GET / HTTP/1.1" 200 6251
+Not Found: /cache/global/img/gs.gif
+[30/Dec/2017 19:52:12] "GET /cache/global/img/gs.gif HTTP/1.1" 404 2464
+[30/Dec/2017 20:03:31] "GET /author/liucixin/ HTTP/1.1" 200 272960
+[30/Dec/2017 20:03:33] "GET /authorNav/liucixin/1changpiankehuanxiaoshuo/ HTTP/1.1" 200 272960
+Not Found: /cache/global/img/gs.gif
+[30/Dec/2017 20:46:15] "GET /cache/global/img/gs.gif HTTP/1.1" 404 2464
+Not Found: /strack/admin/index.html
+[30/Dec/2017 23:49:06] "GET /strack/admin/index.html HTTP/1.1" 404 2464
+[31/Dec/2017 00:28:42] "GET / HTTP/1.1" 200 6251
+Not Found: /xxzy
+[31/Dec/2017 02:58:23] "GET /xxzy HTTP/1.1" 404 2407
+[31/Dec/2017 03:24:59] "GET / HTTP/1.1" 200 6251
+[31/Dec/2017 07:05:28] "GET / HTTP/1.1" 200 6251
+[31/Dec/2017 07:05:28] "GET /static/res/bootstrap-4.0.0-beta.2/css/bootstrap.css HTTP/1.1" 200 159202
+[31/Dec/2017 07:05:28] "GET /static/res/bootstrap-4.0.0-beta.2/js/bootstrap.min.js HTTP/1.1" 200 50564
+[31/Dec/2017 07:05:28] "GET /static/res/bootstrap-4.0.0-beta.2/assets/js/vendor/popper.min.js HTTP/1.1" 200 19197
+[31/Dec/2017 07:05:28] "GET /static/res/bootstrap-4.0.0-beta.2/ecss/carousel.css HTTP/1.1" 200 1658
+[31/Dec/2017 07:05:28] "GET /static/res/bootstrap-4.0.0-beta.2/assets/js/vendor/holder.min.js HTTP/1.1" 200 32283
+Not Found: /favicon.ico
+[31/Dec/2017 07:05:31] "GET /favicon.ico HTTP/1.1" 404 2428
+[31/Dec/2017 07:06:11] "GET /author/liucixin HTTP/1.1" 301 0
+[31/Dec/2017 07:06:12] "GET /author/liucixin/ HTTP/1.1" 200 272960
+[31/Dec/2017 07:06:12] "GET /static/res/bootstrap-4.0.0-beta.2/ecss/dashboard.css HTTP/1.1" 200 837
+[31/Dec/2017 07:06:21] "GET /authorNav/liucixin/2zhongduanpiankehuanxiaoshuo HTTP/1.1" 301 0
+[31/Dec/2017 07:06:21] "GET /authorNav/liucixin/2zhongduanpiankehuanxiaoshuo/ HTTP/1.1" 200 39290
+[31/Dec/2017 07:06:24] "GET /authorNav/liucixin/3qitaxiaoshuo HTTP/1.1" 301 0
+[31/Dec/2017 07:06:24] "GET /authorNav/liucixin/3qitaxiaoshuo/ HTTP/1.1" 200 34999
+[31/Dec/2017 07:06:25] "GET /authorNav/liucixin/4kehuanpinglun HTTP/1.1" 301 0
+[31/Dec/2017 07:06:25] "GET /authorNav/liucixin/4kehuanpinglun/ HTTP/1.1" 200 30146
+[31/Dec/2017 07:06:26] "GET /authorNav/liucixin/5sanwensuibi HTTP/1.1" 301 0
+[31/Dec/2017 07:06:26] "GET /authorNav/liucixin/5sanwensuibi/ HTTP/1.1" 200 19698
+[31/Dec/2017 07:06:27] "GET /authorNav/liucixin/6fangtanlu HTTP/1.1" 301 0
+[31/Dec/2017 07:06:27] "GET /authorNav/liucixin/6fangtanlu/ HTTP/1.1" 200 32042
+[31/Dec/2017 07:06:29] "GET /authorNavItem/liucixin/6fangtanlu/03NoneNonekehuanshijieNonefangtanNone HTTP/1.1" 301 0
+[31/Dec/2017 07:06:29] "GET /authorNavItem/liucixin/6fangtanlu/03NoneNonekehuanshijieNonefangtanNone/ HTTP/1.1" 200 36848
+[31/Dec/2017 07:06:38] "GET /authorNav/liucixin/zuozhejianjie HTTP/1.1" 301 0
+[31/Dec/2017 07:06:38] "GET /authorNav/liucixin/zuozhejianjie/ HTTP/1.1" 200 8407
+[31/Dec/2017 07:06:41] "GET /authorNav/liucixin/hejijianjie HTTP/1.1" 301 0
+[31/Dec/2017 07:06:42] "GET /authorNav/liucixin/hejijianjie/ HTTP/1.1" 200 6690
+[31/Dec/2017 07:06:45] "GET / HTTP/1.1" 200 6251
+[31/Dec/2017 07:06:48] "GET /author/huanglaozhuang HTTP/1.1" 301 0
+[31/Dec/2017 07:06:49] "GET /author/huanglaozhuang/ HTTP/1.1" 200 252068
+[31/Dec/2017 07:06:58] "GET /authorNav/huanglaozhuang/laozi HTTP/1.1" 301 0
+[31/Dec/2017 07:06:58] "GET /authorNav/huanglaozhuang/laozi/ HTTP/1.1" 200 27307
+[31/Dec/2017 07:08:09] "GET /authorNav/huanglaozhuang/huangdineijing HTTP/1.1" 301 0
+[31/Dec/2017 07:08:09] "GET /authorNav/huanglaozhuang/huangdineijing/ HTTP/1.1" 200 203783
+[31/Dec/2017 07:08:11] "GET /authorNav/huanglaozhuang/zhuangzi HTTP/1.1" 301 0
+[31/Dec/2017 07:08:11] "GET /authorNav/huanglaozhuang/zhuangzi/ HTTP/1.1" 200 252068
+[31/Dec/2017 07:08:14] "GET / HTTP/1.1" 200 6251
+[31/Dec/2017 08:05:13] "GET / HTTP/1.1" 200 6251
+[31/Dec/2017 08:16:05] "GET / HTTP/1.1" 200 6251
+Not Found: /rs-status
+[31/Dec/2017 08:20:27] "GET /rs-status HTTP/1.1" 404 2422
+Not Found: /ganglia/index.php
+[31/Dec/2017 08:22:12] "GET /ganglia/index.php HTTP/1.1" 404 2446
+Not Found: /phpmyadmin/
+[31/Dec/2017 08:22:13] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[31/Dec/2017 08:22:13] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /phpmyadmin/
+[31/Dec/2017 08:22:13] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[31/Dec/2017 08:22:13] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /phpmyadmin/
+[31/Dec/2017 08:22:13] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[31/Dec/2017 08:22:13] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /phpmyadmin/
+[31/Dec/2017 08:22:13] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[31/Dec/2017 08:22:13] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /phpmyadmin/
+[31/Dec/2017 08:22:13] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[31/Dec/2017 08:22:14] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /phpmyadmin/
+[31/Dec/2017 08:22:14] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[31/Dec/2017 08:22:14] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /phpmyadmin/
+[31/Dec/2017 08:22:14] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[31/Dec/2017 08:22:14] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /phpmyadmin/
+[31/Dec/2017 08:22:14] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[31/Dec/2017 08:22:14] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /phpmyadmin/
+[31/Dec/2017 08:22:14] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[31/Dec/2017 08:22:14] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /phpmyadmin/
+[31/Dec/2017 08:22:14] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[31/Dec/2017 08:22:14] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /index.php
+[31/Dec/2017 08:25:35] "GET /index.php HTTP/1.1" 404 2422
+Not Found: /jobs/
+[31/Dec/2017 08:31:53] "GET /jobs/ HTTP/1.1" 404 2410
+[31/Dec/2017 08:51:42] "GET / HTTP/1.1" 200 6251
+Not Found: /ierkufsqwjdx
+[31/Dec/2017 08:58:11] "POST /ierkufsqwjdx HTTP/1.1" 404 2432
+Not Found: /ierkufsqwjdx
+[31/Dec/2017 08:58:11] "GET /ierkufsqwjdx HTTP/1.1" 404 2431
+Not Found: /ierkufsqwjdx
+[31/Dec/2017 08:58:11] "DELETE /ierkufsqwjdx HTTP/1.1" 404 2434
+[31/Dec/2017 09:03:21] "GET / HTTP/1.1" 200 6251
+[31/Dec/2017 09:09:12] "GET / HTTP/1.1" 200 6251
+Not Found: /hwi/
+[31/Dec/2017 09:18:10] "GET /hwi/ HTTP/1.1" 404 2407
+Not Found: /hm.gif
+[31/Dec/2017 09:28:03] "GET /hm.gif HTTP/1.1" 404 2412
+[31/Dec/2017 09:38:44] "GET / HTTP/1.1" 200 6251
+Not Found: /rs-status
+[31/Dec/2017 09:40:05] "GET /rs-status HTTP/1.1" 404 2422
+Not Found: /phpmyadmin/
+[31/Dec/2017 09:44:53] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[31/Dec/2017 09:44:53] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /phpmyadmin/
+[31/Dec/2017 09:44:53] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[31/Dec/2017 09:44:53] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /phpmyadmin/
+[31/Dec/2017 09:44:53] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[31/Dec/2017 09:44:53] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /ganglia/index.php
+[31/Dec/2017 09:44:53] "GET /ganglia/index.php HTTP/1.1" 404 2446
+Not Found: /phpmyadmin/
+[31/Dec/2017 09:44:53] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[31/Dec/2017 09:44:53] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /phpmyadmin/
+[31/Dec/2017 09:44:53] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[31/Dec/2017 09:44:53] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /phpmyadmin/
+[31/Dec/2017 09:44:53] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[31/Dec/2017 09:44:54] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /phpmyadmin/
+[31/Dec/2017 09:44:54] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[31/Dec/2017 09:44:54] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /phpmyadmin/
+[31/Dec/2017 09:44:54] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[31/Dec/2017 09:44:54] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /phpmyadmin/
+[31/Dec/2017 09:44:54] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[31/Dec/2017 09:44:54] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /phpmyadmin/
+[31/Dec/2017 09:44:54] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[31/Dec/2017 09:44:54] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /index.php
+[31/Dec/2017 09:54:25] "GET /index.php HTTP/1.1" 404 2422
+Not Found: /jobs/
+[31/Dec/2017 09:58:55] "GET /jobs/ HTTP/1.1" 404 2410
+[31/Dec/2017 10:03:24] "GET / HTTP/1.1" 200 6251
+Not Found: /pimludtcwvrg
+[31/Dec/2017 10:05:59] "POST /pimludtcwvrg HTTP/1.1" 404 2432
+Not Found: /pimludtcwvrg
+[31/Dec/2017 10:05:59] "GET /pimludtcwvrg HTTP/1.1" 404 2431
+Not Found: /pimludtcwvrg
+[31/Dec/2017 10:05:59] "DELETE /pimludtcwvrg HTTP/1.1" 404 2434
+[31/Dec/2017 10:08:25] "GET / HTTP/1.1" 200 6251
+[31/Dec/2017 10:18:56] "GET / HTTP/1.1" 200 6251
+Not Found: /hwi/
+[31/Dec/2017 10:23:28] "GET /hwi/ HTTP/1.1" 404 2407
+[31/Dec/2017 10:32:01] "GET / HTTP/1.1" 200 6251
+Not Found: /master-status
+[31/Dec/2017 10:35:48] "GET /master-status HTTP/1.1" 404 2434
+Not Found: /dfshealth.html
+[31/Dec/2017 10:37:19] "GET /dfshealth.html HTTP/1.1" 404 2437
+Not Found: /http://47.94.228.162:8080
+[31/Dec/2017 10:38:56] "GET /http://47.94.228.162:8080 HTTP/1.1" 404 2470
+Not Found: /http://47.94.228.162:8081
+[31/Dec/2017 10:40:47] "GET /http://47.94.228.162:8081 HTTP/1.1" 404 2470
+Not Found: /http://47.94.228.162:8090
+[31/Dec/2017 10:41:56] "GET /http://47.94.228.162:8090 HTTP/1.1" 404 2470
+Not Found: /clusters.jsf
+[31/Dec/2017 10:43:14] "GET /clusters.jsf HTTP/1.1" 404 2431
+Not Found: /about/
+[31/Dec/2017 10:43:47] "GET /about/ HTTP/1.1" 404 2413
+[31/Dec/2017 10:45:06] "GET / HTTP/1.1" 200 6251
+Not Found: /jenkins/
+[31/Dec/2017 10:46:15] "GET /jenkins/ HTTP/1.1" 404 2419
+Not Found: /zabbix/
+[31/Dec/2017 10:47:15] "GET /zabbix/ HTTP/1.1" 404 2416
+[31/Dec/2017 10:47:31] "GET / HTTP/1.1" 200 6251
+Not Found: /solr/
+[31/Dec/2017 10:47:44] "GET /solr/ HTTP/1.1" 404 2410
+[31/Dec/2017 10:47:47] "GET / HTTP/1.1" 200 6251
+Not Found: /info
+[31/Dec/2017 10:48:21] "GET /info HTTP/1.1" 404 2407
+Not Found: /warning
+[31/Dec/2017 10:49:11] "GET /warning HTTP/1.1" 404 2416
+Not Found: /pleasereadthis
+[31/Dec/2017 10:49:32] "GET /pleasereadthis HTTP/1.1" 404 2437
+Not Found: /please_read/_search
+[31/Dec/2017 10:49:42] "GET /please_read/_search HTTP/1.1" 404 2452
+Not Found: /dfshealth.jsp
+[31/Dec/2017 10:49:55] "GET /dfshealth.jsp HTTP/1.1" 404 2434
+Not Found: /hadoop/dfshealth.jsp
+[31/Dec/2017 10:49:57] "GET /hadoop/dfshealth.jsp HTTP/1.1" 404 2455
+[31/Dec/2017 13:36:19] "GET / HTTP/1.1" 200 6251
+Not Found: /rs-status
+[31/Dec/2017 13:37:17] "GET /rs-status HTTP/1.1" 404 2422
+Not Found: /phpmyadmin/
+[31/Dec/2017 13:38:20] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[31/Dec/2017 13:38:20] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /phpmyadmin/
+[31/Dec/2017 13:38:20] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[31/Dec/2017 13:38:20] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /phpmyadmin/
+[31/Dec/2017 13:38:20] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[31/Dec/2017 13:38:20] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /phpmyadmin/
+[31/Dec/2017 13:38:20] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[31/Dec/2017 13:38:20] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /phpmyadmin/
+[31/Dec/2017 13:38:20] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[31/Dec/2017 13:38:20] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /phpmyadmin/
+[31/Dec/2017 13:38:21] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[31/Dec/2017 13:38:21] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /phpmyadmin/
+[31/Dec/2017 13:38:21] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[31/Dec/2017 13:38:21] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /phpmyadmin/
+[31/Dec/2017 13:38:21] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[31/Dec/2017 13:38:21] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /phpmyadmin/
+[31/Dec/2017 13:38:21] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[31/Dec/2017 13:38:21] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /phpmyadmin/
+[31/Dec/2017 13:38:21] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[31/Dec/2017 13:38:21] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /ganglia/index.php
+[31/Dec/2017 13:38:21] "GET /ganglia/index.php HTTP/1.1" 404 2446
+Not Found: /index.php
+[31/Dec/2017 13:40:18] "GET /index.php HTTP/1.1" 404 2422
+Not Found: /jobs/
+[31/Dec/2017 13:43:02] "GET /jobs/ HTTP/1.1" 404 2410
+[31/Dec/2017 13:46:31] "GET / HTTP/1.1" 200 6251
+Not Found: /rmdgxlzypiet
+[31/Dec/2017 13:48:44] "POST /rmdgxlzypiet HTTP/1.1" 404 2432
+Not Found: /rmdgxlzypiet
+[31/Dec/2017 13:48:44] "GET /rmdgxlzypiet HTTP/1.1" 404 2431
+Not Found: /rmdgxlzypiet
+[31/Dec/2017 13:48:45] "DELETE /rmdgxlzypiet HTTP/1.1" 404 2434
+[31/Dec/2017 13:50:08] "GET / HTTP/1.1" 200 6251
+[31/Dec/2017 13:51:36] "GET / HTTP/1.1" 200 6251
+Not Found: /hwi/
+[31/Dec/2017 13:54:43] "GET /hwi/ HTTP/1.1" 404 2407
+[31/Dec/2017 14:01:36] "GET / HTTP/1.1" 200 6251
+Not Found: /master-status
+[31/Dec/2017 14:05:47] "GET /master-status HTTP/1.1" 404 2434
+Not Found: /dfshealth.html
+[31/Dec/2017 14:06:46] "GET /dfshealth.html HTTP/1.1" 404 2437
+Not Found: /http://47.94.228.162:8080
+[31/Dec/2017 14:08:22] "GET /http://47.94.228.162:8080 HTTP/1.1" 404 2470
+Not Found: /app/etc/local.xml
+[31/Dec/2017 14:08:55] "HEAD /app/etc/local.xml HTTP/1.1" 404 2447
+Not Found: /http://47.94.228.162:8081
+[31/Dec/2017 14:10:00] "GET /http://47.94.228.162:8081 HTTP/1.1" 404 2470
+Not Found: /http://47.94.228.162:8090
+[31/Dec/2017 14:10:48] "GET /http://47.94.228.162:8090 HTTP/1.1" 404 2470
+Not Found: /clusters.jsf
+[31/Dec/2017 14:12:48] "GET /clusters.jsf HTTP/1.1" 404 2431
+Not Found: /about/
+[31/Dec/2017 14:15:30] "GET /about/ HTTP/1.1" 404 2413
+[31/Dec/2017 14:17:15] "GET / HTTP/1.1" 200 6251
+Not Found: /jenkins/
+[31/Dec/2017 14:20:33] "GET /jenkins/ HTTP/1.1" 404 2419
+Not Found: /zabbix/
+[31/Dec/2017 14:23:00] "GET /zabbix/ HTTP/1.1" 404 2416
+[31/Dec/2017 14:24:50] "GET / HTTP/1.1" 200 6251
+Not Found: /solr/
+[31/Dec/2017 14:25:18] "GET /solr/ HTTP/1.1" 404 2410
+[31/Dec/2017 14:26:02] "GET / HTTP/1.1" 200 6251
+Not Found: /info
+[31/Dec/2017 14:28:44] "GET /info HTTP/1.1" 404 2407
+Not Found: /warning
+[31/Dec/2017 14:32:03] "GET /warning HTTP/1.1" 404 2416
+Not Found: /pleasereadthis
+[31/Dec/2017 14:34:15] "GET /pleasereadthis HTTP/1.1" 404 2437
+Not Found: /please_read/_search
+[31/Dec/2017 14:35:37] "GET /please_read/_search HTTP/1.1" 404 2452
+Not Found: /dfshealth.jsp
+[31/Dec/2017 14:36:35] "GET /dfshealth.jsp HTTP/1.1" 404 2434
+Not Found: /hadoop/dfshealth.jsp
+[31/Dec/2017 14:37:00] "GET /hadoop/dfshealth.jsp HTTP/1.1" 404 2455
+[31/Dec/2017 14:40:49] "GET / HTTP/1.1" 200 6251
+[31/Dec/2017 16:24:36] "GET / HTTP/1.1" 200 6251
+Not Found: /cache/global/img/gs.gif
+[31/Dec/2017 16:30:43] "GET /cache/global/img/gs.gif HTTP/1.1" 404 2464
+[31/Dec/2017 16:31:40] "GET / HTTP/1.1" 200 6251
+Not Found: /cache/global/img/gs.gif
+[31/Dec/2017 17:55:44] "GET /cache/global/img/gs.gif HTTP/1.1" 404 2464
+Not Found: /cache/global/img/gs.gif
+[31/Dec/2017 19:34:15] "GET /cache/global/img/gs.gif HTTP/1.1" 404 2464
+Not Found: /strack/task/4_40_9.html
+[31/Dec/2017 21:06:59] "GET /strack/task/4_40_9.html HTTP/1.1" 404 2464
+Not Found: /phpmyadmin/index.php
+[31/Dec/2017 21:20:04] "GET /phpmyadmin/index.php HTTP/1.1" 404 2455
+[01/Jan/2018 00:45:44] "OPTIONS / HTTP/1.1" 200 6251
+[01/Jan/2018 03:39:12] "GET / HTTP/1.1" 200 6251
+Not Found: /muieblackcat
+[01/Jan/2018 04:02:53] "GET /muieblackcat HTTP/1.1" 404 2431
+Not Found: //phpMyAdmin/scripts/setup.php
+[01/Jan/2018 04:02:53] "GET //phpMyAdmin/scripts/setup.php HTTP/1.1" 404 2482
+Not Found: //phpmyadmin/scripts/setup.php
+[01/Jan/2018 04:02:54] "GET //phpmyadmin/scripts/setup.php HTTP/1.1" 404 2482
+Not Found: //pma/scripts/setup.php
+[01/Jan/2018 04:02:54] "GET //pma/scripts/setup.php HTTP/1.1" 404 2461
+Not Found: //myadmin/scripts/setup.php
+[01/Jan/2018 04:02:55] "GET //myadmin/scripts/setup.php HTTP/1.1" 404 2473
+Not Found: //MyAdmin/scripts/setup.php
+[01/Jan/2018 04:02:55] "GET //MyAdmin/scripts/setup.php HTTP/1.1" 404 2473
+Not Found: //mysqladmin/scripts/setup.php
+[01/Jan/2018 04:02:56] "GET //mysqladmin/scripts/setup.php HTTP/1.1" 404 2482
+[01/Jan/2018 04:03:45] "GET / HTTP/1.1" 200 6251
+[01/Jan/2018 08:36:32] "GET / HTTP/1.1" 200 6251
+[01/Jan/2018 08:53:53] "GET / HTTP/1.1" 200 6251
+Not Found: /rs-status
+[01/Jan/2018 09:01:13] "GET /rs-status HTTP/1.1" 404 2422
+Not Found: /phpmyadmin/
+[01/Jan/2018 09:08:07] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[01/Jan/2018 09:08:08] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /phpmyadmin/
+[01/Jan/2018 09:08:08] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[01/Jan/2018 09:08:08] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /phpmyadmin/
+[01/Jan/2018 09:08:08] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[01/Jan/2018 09:08:08] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /phpmyadmin/
+[01/Jan/2018 09:08:08] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[01/Jan/2018 09:08:08] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /phpmyadmin/
+[01/Jan/2018 09:08:08] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[01/Jan/2018 09:08:08] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /phpmyadmin/
+[01/Jan/2018 09:08:08] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[01/Jan/2018 09:08:08] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /phpmyadmin/
+[01/Jan/2018 09:08:08] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[01/Jan/2018 09:08:08] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /phpmyadmin/
+[01/Jan/2018 09:08:08] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[01/Jan/2018 09:08:09] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /phpmyadmin/
+[01/Jan/2018 09:08:09] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[01/Jan/2018 09:08:09] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /phpmyadmin/
+[01/Jan/2018 09:08:09] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[01/Jan/2018 09:08:09] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /ganglia/index.php
+[01/Jan/2018 09:08:16] "GET /ganglia/index.php HTTP/1.1" 404 2446
+Not Found: /index.php
+[01/Jan/2018 09:31:36] "GET /index.php HTTP/1.1" 404 2422
+Not Found: /jobs/
+[01/Jan/2018 09:42:44] "GET /jobs/ HTTP/1.1" 404 2410
+[01/Jan/2018 09:55:07] "GET / HTTP/1.1" 200 6251
+Not Found: /qmwckaslonru
+[01/Jan/2018 09:57:59] "POST /qmwckaslonru HTTP/1.1" 404 2432
+Not Found: /qmwckaslonru
+[01/Jan/2018 09:57:59] "GET /qmwckaslonru HTTP/1.1" 404 2431
+Not Found: /qmwckaslonru
+[01/Jan/2018 09:57:59] "DELETE /qmwckaslonru HTTP/1.1" 404 2434
+[01/Jan/2018 10:09:57] "GET / HTTP/1.1" 200 6251
+[01/Jan/2018 10:20:30] "GET / HTTP/1.1" 200 6251
+Not Found: /echo.php
+[01/Jan/2018 10:25:32] "GET /echo.php?info=1234567890 HTTP/1.1" 404 2440
+Not Found: /hwi/
+[01/Jan/2018 10:28:46] "GET /hwi/ HTTP/1.1" 404 2407
+[01/Jan/2018 12:07:55] "GET / HTTP/1.1" 200 6251
+Not Found: /rs-status
+[01/Jan/2018 12:11:39] "GET /rs-status HTTP/1.1" 404 2422
+Not Found: /ganglia/index.php
+[01/Jan/2018 12:16:30] "GET /ganglia/index.php HTTP/1.1" 404 2446
+Not Found: /phpmyadmin/
+[01/Jan/2018 12:16:32] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[01/Jan/2018 12:16:32] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /phpmyadmin/
+[01/Jan/2018 12:16:32] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[01/Jan/2018 12:16:32] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /phpmyadmin/
+[01/Jan/2018 12:16:32] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[01/Jan/2018 12:16:32] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /phpmyadmin/
+[01/Jan/2018 12:16:32] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[01/Jan/2018 12:16:32] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /phpmyadmin/
+[01/Jan/2018 12:16:32] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[01/Jan/2018 12:16:32] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /phpmyadmin/
+[01/Jan/2018 12:16:32] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[01/Jan/2018 12:16:32] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /phpmyadmin/
+[01/Jan/2018 12:16:32] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[01/Jan/2018 12:16:32] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /phpmyadmin/
+[01/Jan/2018 12:16:32] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[01/Jan/2018 12:16:33] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /phpmyadmin/
+[01/Jan/2018 12:16:33] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[01/Jan/2018 12:16:33] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /phpmyadmin/
+[01/Jan/2018 12:16:33] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[01/Jan/2018 12:16:33] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /index.php
+[01/Jan/2018 12:28:56] "GET /index.php HTTP/1.1" 404 2422
+Not Found: /jobs/
+[01/Jan/2018 12:40:01] "GET /jobs/ HTTP/1.1" 404 2410
+[01/Jan/2018 12:50:55] "GET / HTTP/1.1" 200 6251
+Not Found: /jhgiecrkqmwa
+[01/Jan/2018 12:54:44] "POST /jhgiecrkqmwa HTTP/1.1" 404 2432
+Not Found: /jhgiecrkqmwa
+[01/Jan/2018 12:54:44] "GET /jhgiecrkqmwa HTTP/1.1" 404 2431
+Not Found: /jhgiecrkqmwa
+[01/Jan/2018 12:54:44] "DELETE /jhgiecrkqmwa HTTP/1.1" 404 2434
+[01/Jan/2018 12:57:13] "GET / HTTP/1.1" 200 6251
+[01/Jan/2018 13:01:37] "GET / HTTP/1.1" 200 6251
+Not Found: /hwi/
+[01/Jan/2018 13:04:24] "GET /hwi/ HTTP/1.1" 404 2407
+[01/Jan/2018 13:30:42] "GET / HTTP/1.1" 200 6251
+Not Found: /master-status
+[01/Jan/2018 13:33:14] "GET /master-status HTTP/1.1" 404 2434
+Not Found: /dfshealth.html
+[01/Jan/2018 13:33:35] "GET /dfshealth.html HTTP/1.1" 404 2437
+Not Found: /http://47.94.228.162:8080
+[01/Jan/2018 13:34:31] "GET /http://47.94.228.162:8080 HTTP/1.1" 404 2470
+Not Found: /http://47.94.228.162:8081
+[01/Jan/2018 13:35:46] "GET /http://47.94.228.162:8081 HTTP/1.1" 404 2470
+Not Found: /http://47.94.228.162:8090
+[01/Jan/2018 13:36:07] "GET /http://47.94.228.162:8090 HTTP/1.1" 404 2470
+Not Found: /clusters.jsf
+[01/Jan/2018 13:38:46] "GET /clusters.jsf HTTP/1.1" 404 2431
+Not Found: /about/
+[01/Jan/2018 13:40:28] "GET /about/ HTTP/1.1" 404 2413
+[01/Jan/2018 13:44:21] "GET / HTTP/1.1" 200 6251
+Not Found: /jenkins/
+[01/Jan/2018 13:45:36] "GET /jenkins/ HTTP/1.1" 404 2419
+Not Found: /zabbix/
+[01/Jan/2018 13:45:50] "GET /zabbix/ HTTP/1.1" 404 2416
+[01/Jan/2018 13:45:53] "GET / HTTP/1.1" 200 6251
+Not Found: /solr/
+[01/Jan/2018 13:45:55] "GET /solr/ HTTP/1.1" 404 2410
+[01/Jan/2018 13:45:56] "GET / HTTP/1.1" 200 6251
+Not Found: /info
+[01/Jan/2018 13:46:14] "GET /info HTTP/1.1" 404 2407
+Not Found: /warning
+[01/Jan/2018 13:58:52] "GET /warning HTTP/1.1" 404 2416
+Not Found: /pleasereadthis
+[01/Jan/2018 14:00:24] "GET /pleasereadthis HTTP/1.1" 404 2437
+Not Found: /please_read/_search
+[01/Jan/2018 14:01:29] "GET /please_read/_search HTTP/1.1" 404 2452
+Not Found: /dfshealth.jsp
+[01/Jan/2018 14:06:50] "GET /dfshealth.jsp HTTP/1.1" 404 2434
+Not Found: /hadoop/dfshealth.jsp
+[01/Jan/2018 14:09:56] "GET /hadoop/dfshealth.jsp HTTP/1.1" 404 2455
+Not Found: /cache/global/img/gs.gif
+[01/Jan/2018 14:57:34] "GET /cache/global/img/gs.gif HTTP/1.1" 404 2464
+[01/Jan/2018 16:20:41] "GET / HTTP/1.1" 200 6251
+[01/Jan/2018 16:38:41] "GET / HTTP/1.1" 200 6251
+Not Found: /rs-status
+[01/Jan/2018 16:46:33] "GET /rs-status HTTP/1.1" 404 2422
+[01/Jan/2018 16:48:59] "GET / HTTP/1.1" 200 6251
+Not Found: /phpmyadmin/
+[01/Jan/2018 17:00:11] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[01/Jan/2018 17:00:11] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /phpmyadmin/
+[01/Jan/2018 17:00:11] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[01/Jan/2018 17:00:11] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /phpmyadmin/
+[01/Jan/2018 17:00:11] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[01/Jan/2018 17:00:11] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /phpmyadmin/
+[01/Jan/2018 17:00:11] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[01/Jan/2018 17:00:11] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /phpmyadmin/
+[01/Jan/2018 17:00:11] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[01/Jan/2018 17:00:11] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /phpmyadmin/
+[01/Jan/2018 17:00:11] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[01/Jan/2018 17:00:12] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /phpmyadmin/
+[01/Jan/2018 17:00:12] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[01/Jan/2018 17:00:12] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /phpmyadmin/
+[01/Jan/2018 17:00:12] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[01/Jan/2018 17:00:12] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /phpmyadmin/
+[01/Jan/2018 17:00:12] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[01/Jan/2018 17:00:12] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /phpmyadmin/
+[01/Jan/2018 17:00:12] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[01/Jan/2018 17:00:12] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /ganglia/index.php
+[01/Jan/2018 17:00:56] "GET /ganglia/index.php HTTP/1.1" 404 2446
+[01/Jan/2018 17:09:59] "GET / HTTP/1.1" 200 6251
+Not Found: /index.php
+[01/Jan/2018 17:19:25] "GET /index.php HTTP/1.1" 404 2422
+Not Found: /cache/global/img/gs.gif
+[01/Jan/2018 18:49:03] "GET /cache/global/img/gs.gif HTTP/1.1" 404 2464
+Not Found: /404/search_children.js
+[01/Jan/2018 22:36:55] "GET /404/search_children.js HTTP/1.1" 404 2458
+[02/Jan/2018 01:36:52] "GET / HTTP/1.1" 200 6251
+[02/Jan/2018 01:36:52] "GET /static/res/bootstrap-4.0.0-beta.2/ecss/carousel.css HTTP/1.1" 304 0
+[02/Jan/2018 01:36:52] "GET /static/res/bootstrap-4.0.0-beta.2/css/bootstrap.css HTTP/1.1" 304 0
+[02/Jan/2018 01:36:52] "GET /static/res/bootstrap-4.0.0-beta.2/assets/js/vendor/popper.min.js HTTP/1.1" 304 0
+[02/Jan/2018 01:36:52] "GET /static/res/bootstrap-4.0.0-beta.2/js/bootstrap.min.js HTTP/1.1" 304 0
+[02/Jan/2018 01:36:52] "GET /static/res/bootstrap-4.0.0-beta.2/assets/js/vendor/holder.min.js HTTP/1.1" 304 0
+Not Found: /favicon.ico
+[02/Jan/2018 01:36:52] "GET /favicon.ico HTTP/1.1" 404 2428
+[02/Jan/2018 01:36:57] "GET /author/liucixin/ HTTP/1.1" 200 272960
+[02/Jan/2018 01:36:57] "GET /static/res/bootstrap-4.0.0-beta.2/ecss/dashboard.css HTTP/1.1" 304 0
+[02/Jan/2018 01:37:00] "GET /authorNav/liucixin/zuopinmulu/ HTTP/1.1" 200 13934
+[02/Jan/2018 01:37:01] "GET /authorNav/liucixin/zuozhejianjie/ HTTP/1.1" 200 8407
+[02/Jan/2018 01:37:01] "GET /authorNav/liucixin/hejijianjie/ HTTP/1.1" 200 6690
+[02/Jan/2018 01:37:04] "GET / HTTP/1.1" 200 6251
+[02/Jan/2018 01:37:06] "GET /author/huanglaozhuang/ HTTP/1.1" 200 252068
+[02/Jan/2018 01:37:08] "GET / HTTP/1.1" 200 6251
+[02/Jan/2018 04:21:36] "GET / HTTP/1.1" 200 6251
+Not Found: /ccvv
+[02/Jan/2018 08:21:57] "GET /ccvv HTTP/1.1" 404 2407
+[02/Jan/2018 08:29:34] "GET / HTTP/1.1" 200 6251
+Not Found: /favicon.ico
+[02/Jan/2018 08:51:07] "GET /favicon.ico HTTP/1.1" 404 2428
+[02/Jan/2018 11:10:10] "GET / HTTP/1.1" 200 6251
+[02/Jan/2018 11:10:48] "GET / HTTP/1.1" 200 6251
+Not Found: /rs-status
+[02/Jan/2018 11:12:46] "GET /rs-status HTTP/1.1" 404 2422
+Not Found: /rs-status
+[02/Jan/2018 11:13:32] "GET /rs-status HTTP/1.1" 404 2422
+Not Found: /phpmyadmin/
+[02/Jan/2018 11:19:22] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[02/Jan/2018 11:19:22] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /phpmyadmin/
+[02/Jan/2018 11:19:22] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[02/Jan/2018 11:19:23] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /phpmyadmin/
+[02/Jan/2018 11:19:23] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[02/Jan/2018 11:19:23] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /phpmyadmin/
+[02/Jan/2018 11:19:23] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[02/Jan/2018 11:19:23] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /phpmyadmin/
+[02/Jan/2018 11:19:23] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[02/Jan/2018 11:19:23] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /phpmyadmin/
+[02/Jan/2018 11:19:23] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[02/Jan/2018 11:19:23] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /phpmyadmin/
+[02/Jan/2018 11:19:23] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[02/Jan/2018 11:19:23] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /phpmyadmin/
+[02/Jan/2018 11:19:23] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[02/Jan/2018 11:19:23] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /phpmyadmin/
+[02/Jan/2018 11:19:23] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[02/Jan/2018 11:19:23] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /phpmyadmin/
+[02/Jan/2018 11:19:24] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[02/Jan/2018 11:19:24] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /ganglia/index.php
+[02/Jan/2018 11:20:42] "GET /ganglia/index.php HTTP/1.1" 404 2446
+Not Found: /ganglia/index.php
+[02/Jan/2018 11:24:59] "GET /ganglia/index.php HTTP/1.1" 404 2446
+Not Found: /phpmyadmin/
+[02/Jan/2018 11:25:29] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[02/Jan/2018 11:25:29] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /phpmyadmin/
+[02/Jan/2018 11:25:29] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[02/Jan/2018 11:25:29] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /phpmyadmin/
+[02/Jan/2018 11:25:29] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[02/Jan/2018 11:25:29] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /phpmyadmin/
+[02/Jan/2018 11:25:29] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[02/Jan/2018 11:25:29] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /phpmyadmin/
+[02/Jan/2018 11:25:29] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[02/Jan/2018 11:25:29] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /phpmyadmin/
+[02/Jan/2018 11:25:29] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[02/Jan/2018 11:25:29] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /phpmyadmin/
+[02/Jan/2018 11:25:30] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[02/Jan/2018 11:25:30] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /phpmyadmin/
+[02/Jan/2018 11:25:30] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[02/Jan/2018 11:25:30] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /phpmyadmin/
+[02/Jan/2018 11:25:30] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[02/Jan/2018 11:25:30] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /phpmyadmin/
+[02/Jan/2018 11:25:30] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[02/Jan/2018 11:25:30] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /index.php
+[02/Jan/2018 11:26:25] "GET /index.php HTTP/1.1" 404 2422
+Not Found: /jobs/
+[02/Jan/2018 11:34:25] "GET /jobs/ HTTP/1.1" 404 2410
+[02/Jan/2018 11:40:32] "GET / HTTP/1.1" 200 6251
+Not Found: /hiejwrmgqsnz
+[02/Jan/2018 11:43:26] "POST /hiejwrmgqsnz HTTP/1.1" 404 2432
+Not Found: /hiejwrmgqsnz
+[02/Jan/2018 11:43:27] "GET /hiejwrmgqsnz HTTP/1.1" 404 2431
+Not Found: /hiejwrmgqsnz
+[02/Jan/2018 11:43:27] "DELETE /hiejwrmgqsnz HTTP/1.1" 404 2434
+Not Found: /cache/global/img/gs.gif
+[02/Jan/2018 11:49:53] "GET /cache/global/img/gs.gif HTTP/1.1" 404 2464
+[02/Jan/2018 11:50:54] "GET / HTTP/1.1" 200 6251
+[02/Jan/2018 11:54:50] "GET / HTTP/1.1" 200 6251
+[02/Jan/2018 11:55:23] "GET / HTTP/1.1" 200 6251
+Not Found: /hwi/
+[02/Jan/2018 11:56:24] "GET /hwi/ HTTP/1.1" 404 2407
+[02/Jan/2018 12:02:39] "GET / HTTP/1.1" 200 6251
+Not Found: /master-status
+[02/Jan/2018 12:03:51] "GET /master-status HTTP/1.1" 404 2434
+Not Found: /dfshealth.html
+[02/Jan/2018 12:04:05] "GET /dfshealth.html HTTP/1.1" 404 2437
+Not Found: /http://47.94.228.162:8080
+[02/Jan/2018 12:04:30] "GET /http://47.94.228.162:8080 HTTP/1.1" 404 2470
+Not Found: /http://47.94.228.162:8081
+[02/Jan/2018 12:05:15] "GET /http://47.94.228.162:8081 HTTP/1.1" 404 2470
+Not Found: /http://47.94.228.162:8090
+[02/Jan/2018 12:05:26] "GET /http://47.94.228.162:8090 HTTP/1.1" 404 2470
+Not Found: /clusters.jsf
+[02/Jan/2018 12:06:14] "GET /clusters.jsf HTTP/1.1" 404 2431
+Not Found: /about/
+[02/Jan/2018 12:06:22] "GET /about/ HTTP/1.1" 404 2413
+[02/Jan/2018 12:06:33] "GET / HTTP/1.1" 200 6251
+Not Found: /jenkins/
+[02/Jan/2018 12:06:53] "GET /jenkins/ HTTP/1.1" 404 2419
+Not Found: /zabbix/
+[02/Jan/2018 12:07:22] "GET /zabbix/ HTTP/1.1" 404 2416
+[02/Jan/2018 12:07:25] "GET / HTTP/1.1" 200 6251
+Not Found: /solr/
+[02/Jan/2018 12:07:34] "GET /solr/ HTTP/1.1" 404 2410
+[02/Jan/2018 12:07:39] "GET / HTTP/1.1" 200 6251
+Not Found: /info
+[02/Jan/2018 12:07:52] "GET /info HTTP/1.1" 404 2407
+Not Found: /warning
+[02/Jan/2018 12:08:08] "GET /warning HTTP/1.1" 404 2416
+Not Found: /pleasereadthis
+[02/Jan/2018 12:08:14] "GET /pleasereadthis HTTP/1.1" 404 2437
+Not Found: /please_read/_search
+[02/Jan/2018 12:08:18] "GET /please_read/_search HTTP/1.1" 404 2452
+Not Found: /dfshealth.jsp
+[02/Jan/2018 12:08:22] "GET /dfshealth.jsp HTTP/1.1" 404 2434
+Not Found: /hadoop/dfshealth.jsp
+[02/Jan/2018 12:08:22] "GET /hadoop/dfshealth.jsp HTTP/1.1" 404 2455
+Not Found: /echo.php
+[02/Jan/2018 13:10:21] "GET /echo.php?info=1234567890 HTTP/1.1" 404 2440
+[02/Jan/2018 15:19:30] "GET / HTTP/1.1" 200 6251
+Not Found: /rs-status
+[02/Jan/2018 15:19:45] "GET /rs-status HTTP/1.1" 404 2422
+Not Found: /phpmyadmin/
+[02/Jan/2018 15:19:49] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[02/Jan/2018 15:19:49] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /phpmyadmin/
+[02/Jan/2018 15:19:49] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[02/Jan/2018 15:19:49] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /phpmyadmin/
+[02/Jan/2018 15:19:49] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[02/Jan/2018 15:19:49] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /phpmyadmin/
+[02/Jan/2018 15:19:49] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[02/Jan/2018 15:19:49] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /phpmyadmin/
+[02/Jan/2018 15:19:49] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[02/Jan/2018 15:19:50] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /phpmyadmin/
+[02/Jan/2018 15:19:50] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[02/Jan/2018 15:19:50] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /phpmyadmin/
+[02/Jan/2018 15:19:50] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[02/Jan/2018 15:19:50] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /phpmyadmin/
+[02/Jan/2018 15:19:50] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[02/Jan/2018 15:19:50] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /phpmyadmin/
+[02/Jan/2018 15:19:50] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[02/Jan/2018 15:19:50] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /phpmyadmin/
+[02/Jan/2018 15:19:50] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[02/Jan/2018 15:19:50] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /ganglia/index.php
+[02/Jan/2018 15:19:54] "GET /ganglia/index.php HTTP/1.1" 404 2446
+Not Found: /index.php
+[02/Jan/2018 15:20:26] "GET /index.php HTTP/1.1" 404 2422
+Not Found: /jobs/
+[02/Jan/2018 15:22:19] "GET /jobs/ HTTP/1.1" 404 2410
+[02/Jan/2018 15:24:00] "GET / HTTP/1.1" 200 6251
+Not Found: /iundohbzvrcs
+[02/Jan/2018 15:24:48] "POST /iundohbzvrcs HTTP/1.1" 404 2432
+Not Found: /iundohbzvrcs
+[02/Jan/2018 15:24:48] "GET /iundohbzvrcs HTTP/1.1" 404 2431
+Not Found: /iundohbzvrcs
+[02/Jan/2018 15:24:48] "DELETE /iundohbzvrcs HTTP/1.1" 404 2434
+[02/Jan/2018 15:24:53] "GET / HTTP/1.1" 200 6251
+[02/Jan/2018 15:25:13] "GET / HTTP/1.1" 200 6251
+Not Found: /hwi/
+[02/Jan/2018 15:27:59] "GET /hwi/ HTTP/1.1" 404 2407
+[02/Jan/2018 15:33:03] "GET / HTTP/1.1" 200 6251
+Not Found: /master-status
+[02/Jan/2018 15:41:58] "GET /master-status HTTP/1.1" 404 2434
+Not Found: /dfshealth.html
+[02/Jan/2018 15:42:48] "GET /dfshealth.html HTTP/1.1" 404 2437
+Not Found: /http://47.94.228.162:8080
+[02/Jan/2018 15:47:42] "GET /http://47.94.228.162:8080 HTTP/1.1" 404 2470
+Not Found: /http://47.94.228.162:8081
+[02/Jan/2018 15:49:09] "GET /http://47.94.228.162:8081 HTTP/1.1" 404 2470
+Not Found: /http://47.94.228.162:8090
+[02/Jan/2018 15:50:55] "GET /http://47.94.228.162:8090 HTTP/1.1" 404 2470
+Not Found: /clusters.jsf
+[02/Jan/2018 15:55:49] "GET /clusters.jsf HTTP/1.1" 404 2431
+Not Found: /about/
+[02/Jan/2018 16:00:38] "GET /about/ HTTP/1.1" 404 2413
+[02/Jan/2018 16:06:21] "GET / HTTP/1.1" 200 6251
+Not Found: /jenkins/
+[02/Jan/2018 16:11:58] "GET /jenkins/ HTTP/1.1" 404 2419
+Not Found: /zabbix/
+[02/Jan/2018 16:19:50] "GET /zabbix/ HTTP/1.1" 404 2416
+[02/Jan/2018 16:20:55] "GET / HTTP/1.1" 200 6251
+[02/Jan/2018 16:21:11] "GET / HTTP/1.1" 200 6251
+Not Found: /solr/
+[02/Jan/2018 16:23:22] "GET /solr/ HTTP/1.1" 404 2410
+[02/Jan/2018 16:26:02] "GET / HTTP/1.1" 200 6251
+Not Found: /info
+[02/Jan/2018 16:41:20] "GET /info HTTP/1.1" 404 2407
+Not Found: /warning
+[02/Jan/2018 16:57:44] "GET /warning HTTP/1.1" 404 2416
+Not Found: /pleasereadthis
+[02/Jan/2018 17:01:27] "GET /pleasereadthis HTTP/1.1" 404 2437
+Not Found: /please_read/_search
+[02/Jan/2018 17:04:01] "GET /please_read/_search HTTP/1.1" 404 2452
+Not Found: /dfshealth.jsp
+[02/Jan/2018 17:08:27] "GET /dfshealth.jsp HTTP/1.1" 404 2434
+Not Found: /hadoop/dfshealth.jsp
+[02/Jan/2018 17:09:56] "GET /hadoop/dfshealth.jsp HTTP/1.1" 404 2455
+Not Found: /cache/global/img/gs.gif
+[02/Jan/2018 17:39:23] "GET /cache/global/img/gs.gif HTTP/1.1" 404 2464
+Not Found: /muieblackcat
+[02/Jan/2018 18:17:26] "GET /muieblackcat HTTP/1.1" 404 2431
+[03/Jan/2018 00:34:16] "GET / HTTP/1.1" 200 6251
+[03/Jan/2018 04:04:37] "GET / HTTP/1.1" 200 6251
+[03/Jan/2018 08:21:40] "GET / HTTP/1.1" 200 6251
+Not Found: /cache/global/img/gs.gif
+[03/Jan/2018 08:41:10] "GET /cache/global/img/gs.gif HTTP/1.1" 404 2464
+Not Found: /echo.php
+[03/Jan/2018 09:14:26] "GET /echo.php?info=1234567890 HTTP/1.1" 404 2440
+[03/Jan/2018 09:52:17] "GET / HTTP/1.1" 200 6251
+Not Found: /rs-status
+[03/Jan/2018 10:03:10] "GET /rs-status HTTP/1.1" 404 2422
+Not Found: /rs-status
+[03/Jan/2018 10:04:14] "GET /rs-status HTTP/1.1" 404 2422
+Not Found: /phpmyadmin/
+[03/Jan/2018 10:07:29] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[03/Jan/2018 10:07:29] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /phpmyadmin/
+[03/Jan/2018 10:07:29] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[03/Jan/2018 10:07:29] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /phpmyadmin/
+[03/Jan/2018 10:07:29] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[03/Jan/2018 10:07:29] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /phpmyadmin/
+[03/Jan/2018 10:07:29] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[03/Jan/2018 10:07:29] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /phpmyadmin/
+[03/Jan/2018 10:07:29] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[03/Jan/2018 10:07:29] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /phpmyadmin/
+[03/Jan/2018 10:07:30] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[03/Jan/2018 10:07:30] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /phpmyadmin/
+[03/Jan/2018 10:07:30] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[03/Jan/2018 10:07:30] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /phpmyadmin/
+[03/Jan/2018 10:07:30] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[03/Jan/2018 10:07:30] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /phpmyadmin/
+[03/Jan/2018 10:07:30] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[03/Jan/2018 10:07:30] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /phpmyadmin/
+[03/Jan/2018 10:07:30] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[03/Jan/2018 10:07:30] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /ganglia/index.php
+[03/Jan/2018 10:07:36] "GET /ganglia/index.php HTTP/1.1" 404 2446
+Not Found: /index.php
+[03/Jan/2018 10:14:17] "GET /index.php HTTP/1.1" 404 2422
+Not Found: /jobs/
+[03/Jan/2018 10:18:07] "GET /jobs/ HTTP/1.1" 404 2410
+Not Found: /phpmyadmin/
+[03/Jan/2018 10:27:04] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[03/Jan/2018 10:27:04] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /phpmyadmin/
+[03/Jan/2018 10:27:04] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[03/Jan/2018 10:27:04] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /phpmyadmin/
+[03/Jan/2018 10:27:04] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[03/Jan/2018 10:27:05] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /phpmyadmin/
+[03/Jan/2018 10:27:05] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[03/Jan/2018 10:27:05] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /phpmyadmin/
+[03/Jan/2018 10:27:05] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[03/Jan/2018 10:27:05] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /phpmyadmin/
+[03/Jan/2018 10:27:05] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[03/Jan/2018 10:27:05] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /phpmyadmin/
+[03/Jan/2018 10:27:05] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[03/Jan/2018 10:27:05] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /phpmyadmin/
+[03/Jan/2018 10:27:05] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[03/Jan/2018 10:27:05] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /phpmyadmin/
+[03/Jan/2018 10:27:05] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[03/Jan/2018 10:27:05] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /phpmyadmin/
+[03/Jan/2018 10:27:05] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[03/Jan/2018 10:27:06] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /ganglia/index.php
+[03/Jan/2018 10:28:02] "GET /ganglia/index.php HTTP/1.1" 404 2446
+[03/Jan/2018 10:28:25] "GET / HTTP/1.1" 200 6251
+Not Found: /felrgozvacis
+[03/Jan/2018 10:31:51] "POST /felrgozvacis HTTP/1.1" 404 2432
+Not Found: /felrgozvacis
+[03/Jan/2018 10:31:51] "GET /felrgozvacis HTTP/1.1" 404 2431
+Not Found: /felrgozvacis
+[03/Jan/2018 10:31:51] "DELETE /felrgozvacis HTTP/1.1" 404 2434
+[03/Jan/2018 10:40:18] "GET / HTTP/1.1" 200 6251
+[03/Jan/2018 10:44:07] "GET / HTTP/1.1" 200 6251
+Not Found: /hwi/
+[03/Jan/2018 10:53:08] "GET /hwi/ HTTP/1.1" 404 2407
+[03/Jan/2018 11:16:42] "GET / HTTP/1.1" 200 6251
+Not Found: /master-status
+[03/Jan/2018 11:35:39] "GET /master-status HTTP/1.1" 404 2434
+Not Found: /dfshealth.html
+[03/Jan/2018 11:39:26] "GET /dfshealth.html HTTP/1.1" 404 2437
+Not Found: /http://47.94.228.162:8080
+[03/Jan/2018 11:47:07] "GET /http://47.94.228.162:8080 HTTP/1.1" 404 2470
+Not Found: /http://47.94.228.162:8081
+[03/Jan/2018 11:49:01] "GET /http://47.94.228.162:8081 HTTP/1.1" 404 2470
+Not Found: /http://47.94.228.162:8090
+[03/Jan/2018 11:50:29] "GET /http://47.94.228.162:8090 HTTP/1.1" 404 2470
+Not Found: /clusters.jsf
+[03/Jan/2018 11:58:28] "GET /clusters.jsf HTTP/1.1" 404 2431
+Not Found: /about/
+[03/Jan/2018 12:06:22] "GET /about/ HTTP/1.1" 404 2413
+[03/Jan/2018 12:08:53] "GET / HTTP/1.1" 200 6251
+Not Found: /jenkins/
+[03/Jan/2018 12:14:34] "GET /jenkins/ HTTP/1.1" 404 2419
+[03/Jan/2018 12:59:17] "GET / HTTP/1.1" 200 6251
+Not Found: /rs-status
+[03/Jan/2018 13:01:21] "GET /rs-status HTTP/1.1" 404 2422
+Not Found: /phpmyadmin/
+[03/Jan/2018 13:09:46] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[03/Jan/2018 13:09:46] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /phpmyadmin/
+[03/Jan/2018 13:09:46] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[03/Jan/2018 13:09:46] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /phpmyadmin/
+[03/Jan/2018 13:09:46] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[03/Jan/2018 13:09:46] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /phpmyadmin/
+[03/Jan/2018 13:09:47] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[03/Jan/2018 13:09:47] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /ganglia/index.php
+[03/Jan/2018 13:09:47] "GET /ganglia/index.php HTTP/1.1" 404 2446
+Not Found: /phpmyadmin/
+[03/Jan/2018 13:09:47] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[03/Jan/2018 13:09:47] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /phpmyadmin/
+[03/Jan/2018 13:09:47] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[03/Jan/2018 13:09:47] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /phpmyadmin/
+[03/Jan/2018 13:09:47] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[03/Jan/2018 13:09:47] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /phpmyadmin/
+[03/Jan/2018 13:09:47] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[03/Jan/2018 13:09:47] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /phpmyadmin/
+[03/Jan/2018 13:09:47] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[03/Jan/2018 13:09:47] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /phpmyadmin/
+[03/Jan/2018 13:09:47] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[03/Jan/2018 13:09:47] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /index.php
+[03/Jan/2018 13:19:04] "GET /index.php HTTP/1.1" 404 2422
+Not Found: /jobs/
+[03/Jan/2018 13:34:04] "GET /jobs/ HTTP/1.1" 404 2410
+Not Found: /wls-wsat/CoordinatorPortType11
+[03/Jan/2018 14:40:26] "GET /wls-wsat/CoordinatorPortType11 HTTP/1.1" 404 2485
+[03/Jan/2018 16:31:25] "GET / HTTP/1.1" 200 6251
+[03/Jan/2018 19:20:39] "GET / HTTP/1.1" 200 6251
+Not Found: /cache/global/img/gs.gif
+[03/Jan/2018 22:37:40] "GET /cache/global/img/gs.gif HTTP/1.1" 404 2464
+Not Found: /manager/html
+[04/Jan/2018 00:10:40] "GET /manager/html HTTP/1.1" 404 2431
+[04/Jan/2018 00:35:45] "GET / HTTP/1.1" 200 6251
+[04/Jan/2018 03:00:18] "GET / HTTP/1.1" 200 6251
+[04/Jan/2018 03:00:18] "GET /static/res/bootstrap-4.0.0-beta.2/css/bootstrap.css HTTP/1.1" 304 0
+[04/Jan/2018 03:00:18] "GET /static/res/bootstrap-4.0.0-beta.2/assets/js/vendor/holder.min.js HTTP/1.1" 304 0
+[04/Jan/2018 03:00:18] "GET /static/res/bootstrap-4.0.0-beta.2/assets/js/vendor/popper.min.js HTTP/1.1" 304 0
+[04/Jan/2018 03:00:18] "GET /static/res/bootstrap-4.0.0-beta.2/ecss/carousel.css HTTP/1.1" 304 0
+[04/Jan/2018 03:00:18] "GET /static/res/bootstrap-4.0.0-beta.2/js/bootstrap.min.js HTTP/1.1" 304 0
+[04/Jan/2018 04:34:40] "GET / HTTP/1.1" 200 6251
+[04/Jan/2018 04:39:22] "GET / HTTP/1.1" 200 6251
+Not Found: /cache/global/img/gs.gif
+[04/Jan/2018 05:15:34] "GET /cache/global/img/gs.gif HTTP/1.1" 404 2464
+[04/Jan/2018 08:25:46] "GET / HTTP/1.1" 200 6251
+[04/Jan/2018 08:52:29] "GET / HTTP/1.1" 200 6251
+Not Found: /rs-status
+[04/Jan/2018 08:53:39] "GET /rs-status HTTP/1.1" 404 2422
+Not Found: /ganglia/index.php
+[04/Jan/2018 08:54:04] "GET /ganglia/index.php HTTP/1.1" 404 2446
+Not Found: /phpmyadmin/
+[04/Jan/2018 08:54:04] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[04/Jan/2018 08:54:04] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /phpmyadmin/
+[04/Jan/2018 08:54:04] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[04/Jan/2018 08:54:05] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /phpmyadmin/
+[04/Jan/2018 08:54:05] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[04/Jan/2018 08:54:05] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /phpmyadmin/
+[04/Jan/2018 08:54:05] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[04/Jan/2018 08:54:05] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /phpmyadmin/
+[04/Jan/2018 08:54:05] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[04/Jan/2018 08:54:05] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /phpmyadmin/
+[04/Jan/2018 08:54:05] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[04/Jan/2018 08:54:05] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /phpmyadmin/
+[04/Jan/2018 08:54:05] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[04/Jan/2018 08:54:05] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /phpmyadmin/
+[04/Jan/2018 08:54:05] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[04/Jan/2018 08:54:05] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /phpmyadmin/
+[04/Jan/2018 08:54:05] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[04/Jan/2018 08:54:05] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /phpmyadmin/
+[04/Jan/2018 08:54:06] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[04/Jan/2018 08:54:06] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /index.php
+[04/Jan/2018 08:57:30] "GET /index.php HTTP/1.1" 404 2422
+Not Found: /jobs/
+[04/Jan/2018 09:01:36] "GET /jobs/ HTTP/1.1" 404 2410
+[04/Jan/2018 09:02:48] "GET / HTTP/1.1" 200 6251
+Not Found: /kjnthovzgicx
+[04/Jan/2018 09:03:29] "POST /kjnthovzgicx HTTP/1.1" 404 2432
+Not Found: /kjnthovzgicx
+[04/Jan/2018 09:03:29] "GET /kjnthovzgicx HTTP/1.1" 404 2431
+Not Found: /kjnthovzgicx
+[04/Jan/2018 09:03:29] "DELETE /kjnthovzgicx HTTP/1.1" 404 2434
+[04/Jan/2018 09:03:52] "GET / HTTP/1.1" 200 6251
+[04/Jan/2018 09:04:12] "GET / HTTP/1.1" 200 6251
+Not Found: /hwi/
+[04/Jan/2018 09:06:15] "GET /hwi/ HTTP/1.1" 404 2407
+[04/Jan/2018 09:26:07] "GET / HTTP/1.1" 200 6251
+Not Found: /master-status
+[04/Jan/2018 09:30:07] "GET /master-status HTTP/1.1" 404 2434
+Not Found: /dfshealth.html
+[04/Jan/2018 09:30:38] "GET /dfshealth.html HTTP/1.1" 404 2437
+Not Found: /http://47.94.228.162:8080
+[04/Jan/2018 09:33:21] "GET /http://47.94.228.162:8080 HTTP/1.1" 404 2470
+Not Found: /http://47.94.228.162:8081
+[04/Jan/2018 09:33:41] "GET /http://47.94.228.162:8081 HTTP/1.1" 404 2470
+Not Found: /http://47.94.228.162:8090
+[04/Jan/2018 09:35:36] "GET /http://47.94.228.162:8090 HTTP/1.1" 404 2470
+Not Found: /clusters.jsf
+[04/Jan/2018 09:37:43] "GET /clusters.jsf HTTP/1.1" 404 2431
+Not Found: /about/
+[04/Jan/2018 09:50:20] "GET /about/ HTTP/1.1" 404 2413
+[04/Jan/2018 09:55:48] "GET / HTTP/1.1" 200 6251
+Not Found: /upgrade/src/version.manifest
+[04/Jan/2018 10:04:07] "GET /upgrade/src/version.manifest HTTP/1.1" 404 2483
+Not Found: /jenkins/
+[04/Jan/2018 10:04:33] "GET /jenkins/ HTTP/1.1" 404 2419
+Not Found: /zabbix/
+[04/Jan/2018 10:11:26] "GET /zabbix/ HTTP/1.1" 404 2416
+[04/Jan/2018 10:13:54] "GET / HTTP/1.1" 200 6251
+[04/Jan/2018 10:17:32] "GET / HTTP/1.1" 200 6251
+Not Found: /rs-status
+[04/Jan/2018 10:22:31] "GET /rs-status HTTP/1.1" 404 2422
+Not Found: /solr/
+[04/Jan/2018 10:24:37] "GET /solr/ HTTP/1.1" 404 2410
+Not Found: /ganglia/index.php
+[04/Jan/2018 10:25:14] "GET /ganglia/index.php HTTP/1.1" 404 2446
+Not Found: /phpmyadmin/
+[04/Jan/2018 10:25:14] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[04/Jan/2018 10:25:14] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /phpmyadmin/
+[04/Jan/2018 10:25:14] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[04/Jan/2018 10:25:14] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /phpmyadmin/
+[04/Jan/2018 10:25:15] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[04/Jan/2018 10:25:15] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /phpmyadmin/
+[04/Jan/2018 10:25:15] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[04/Jan/2018 10:25:15] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /phpmyadmin/
+[04/Jan/2018 10:25:15] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[04/Jan/2018 10:25:15] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /phpmyadmin/
+[04/Jan/2018 10:25:15] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[04/Jan/2018 10:25:15] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /phpmyadmin/
+[04/Jan/2018 10:25:15] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[04/Jan/2018 10:25:15] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /phpmyadmin/
+[04/Jan/2018 10:25:15] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[04/Jan/2018 10:25:15] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /phpmyadmin/
+[04/Jan/2018 10:25:15] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[04/Jan/2018 10:25:15] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /phpmyadmin/
+[04/Jan/2018 10:25:15] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[04/Jan/2018 10:25:16] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+[04/Jan/2018 10:28:06] "GET / HTTP/1.1" 200 6251
+Not Found: /index.php
+[04/Jan/2018 10:30:18] "GET /index.php HTTP/1.1" 404 2422
+Not Found: /jobs/
+[04/Jan/2018 10:37:48] "GET /jobs/ HTTP/1.1" 404 2410
+Not Found: /info
+[04/Jan/2018 10:40:28] "GET /info HTTP/1.1" 404 2407
+[04/Jan/2018 10:48:18] "GET / HTTP/1.1" 200 6251
+Not Found: /dvtcxmiplukz
+[04/Jan/2018 10:52:44] "POST /dvtcxmiplukz HTTP/1.1" 404 2432
+Not Found: /dvtcxmiplukz
+[04/Jan/2018 10:52:44] "GET /dvtcxmiplukz HTTP/1.1" 404 2431
+Not Found: /dvtcxmiplukz
+[04/Jan/2018 10:52:44] "DELETE /dvtcxmiplukz HTTP/1.1" 404 2434
+Not Found: /warning
+[04/Jan/2018 10:57:08] "GET /warning HTTP/1.1" 404 2416
+Not Found: /pleasereadthis
+[04/Jan/2018 11:01:28] "GET /pleasereadthis HTTP/1.1" 404 2437
+Not Found: /please_read/_search
+[04/Jan/2018 11:03:51] "GET /please_read/_search HTTP/1.1" 404 2452
+Not Found: /dfshealth.jsp
+[04/Jan/2018 11:06:22] "GET /dfshealth.jsp HTTP/1.1" 404 2434
+Not Found: /hadoop/dfshealth.jsp
+[04/Jan/2018 11:06:25] "GET /hadoop/dfshealth.jsp HTTP/1.1" 404 2455
+Not Found: /echo.php
+[04/Jan/2018 12:11:15] "GET /echo.php?info=1234567890 HTTP/1.1" 404 2440
+[04/Jan/2018 12:44:57] "GET / HTTP/1.1" 200 6251
+[04/Jan/2018 12:44:57] "GET / HTTP/1.1" 200 6251
+[04/Jan/2018 12:44:58] "GET / HTTP/1.1" 200 6251
+[04/Jan/2018 12:44:58] "GET / HTTP/1.1" 200 6251
+[04/Jan/2018 12:44:58] "GET / HTTP/1.1" 200 6251
+[04/Jan/2018 12:44:58] "GET / HTTP/1.1" 200 6251
+[04/Jan/2018 12:44:58] "GET / HTTP/1.1" 200 6251
+[04/Jan/2018 12:44:58] "GET / HTTP/1.1" 200 6251
+[04/Jan/2018 13:51:04] "GET / HTTP/1.1" 200 6251
+[04/Jan/2018 13:51:04] "GET /static/res/bootstrap-4.0.0-beta.2/css/bootstrap.css HTTP/1.1" 200 159202
+[04/Jan/2018 13:51:04] "GET /static/res/bootstrap-4.0.0-beta.2/ecss/carousel.css HTTP/1.1" 200 1658
+[04/Jan/2018 13:51:04] "GET /static/res/bootstrap-4.0.0-beta.2/assets/js/vendor/popper.min.js HTTP/1.1" 200 19197
+[04/Jan/2018 13:51:04] "GET /static/res/bootstrap-4.0.0-beta.2/js/bootstrap.min.js HTTP/1.1" 200 50564
+[04/Jan/2018 13:51:04] "GET /static/res/bootstrap-4.0.0-beta.2/assets/js/vendor/holder.min.js HTTP/1.1" 200 32283
+Not Found: /favicon.ico
+[04/Jan/2018 13:51:07] "GET /favicon.ico HTTP/1.1" 404 2428
+[04/Jan/2018 13:51:25] "GET / HTTP/1.1" 200 6251
+[04/Jan/2018 13:59:05] "GET / HTTP/1.1" 200 6251
+Not Found: /rs-status
+[04/Jan/2018 14:01:38] "GET /rs-status HTTP/1.1" 404 2422
+Not Found: /phpmyadmin/
+[04/Jan/2018 14:02:48] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[04/Jan/2018 14:02:48] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /phpmyadmin/
+[04/Jan/2018 14:02:48] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[04/Jan/2018 14:02:48] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /phpmyadmin/
+[04/Jan/2018 14:02:48] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[04/Jan/2018 14:02:48] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /phpmyadmin/
+[04/Jan/2018 14:02:48] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[04/Jan/2018 14:02:48] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /phpmyadmin/
+[04/Jan/2018 14:02:49] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[04/Jan/2018 14:02:49] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /phpmyadmin/
+[04/Jan/2018 14:02:49] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[04/Jan/2018 14:02:49] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /phpmyadmin/
+[04/Jan/2018 14:02:49] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[04/Jan/2018 14:02:49] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /phpmyadmin/
+[04/Jan/2018 14:02:49] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[04/Jan/2018 14:02:49] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /phpmyadmin/
+[04/Jan/2018 14:02:49] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[04/Jan/2018 14:02:49] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /phpmyadmin/
+[04/Jan/2018 14:02:49] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[04/Jan/2018 14:02:49] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /ganglia/index.php
+[04/Jan/2018 14:03:03] "GET /ganglia/index.php HTTP/1.1" 404 2446
+Not Found: /index.php
+[04/Jan/2018 14:09:28] "GET /index.php HTTP/1.1" 404 2422
+Not Found: /jobs/
+[04/Jan/2018 14:19:48] "GET /jobs/ HTTP/1.1" 404 2410
+[04/Jan/2018 14:37:48] "GET / HTTP/1.1" 200 6251
+Not Found: /rhcobgjfutae
+[04/Jan/2018 14:43:24] "POST /rhcobgjfutae HTTP/1.1" 404 2432
+Not Found: /rhcobgjfutae
+[04/Jan/2018 14:43:24] "GET /rhcobgjfutae HTTP/1.1" 404 2431
+Not Found: /rhcobgjfutae
+[04/Jan/2018 14:43:24] "DELETE /rhcobgjfutae HTTP/1.1" 404 2434
+Not Found: /cache/global/img/gs.gif
+[04/Jan/2018 14:43:40] "GET /cache/global/img/gs.gif HTTP/1.1" 404 2464
+[04/Jan/2018 14:54:01] "GET / HTTP/1.1" 200 6251
+[04/Jan/2018 14:58:25] "GET / HTTP/1.1" 200 6251
+[04/Jan/2018 16:13:15] "GET / HTTP/1.1" 200 6251
+[04/Jan/2018 16:34:09] "GET / HTTP/1.1" 200 6251
+[04/Jan/2018 16:38:43] "GET / HTTP/1.1" 200 6251
+[04/Jan/2018 19:51:43] "GET / HTTP/1.1" 200 6251
+Not Found: /404/search_children.js
+[04/Jan/2018 22:42:22] "GET /404/search_children.js HTTP/1.1" 404 2458
+[04/Jan/2018 23:13:53] "GET / HTTP/1.1" 200 6251
+[05/Jan/2018 00:32:24] "GET / HTTP/1.1" 200 6251
+Not Found: /favicon.ico
+[05/Jan/2018 01:35:50] "GET /favicon.ico HTTP/1.1" 404 2428
+Not Found: /cache/global/img/gs.gif
+[05/Jan/2018 01:57:22] "GET /cache/global/img/gs.gif HTTP/1.1" 404 2464
+[05/Jan/2018 03:40:32] "GET / HTTP/1.1" 200 6251
+Not Found: /xmlrpc.php
+[05/Jan/2018 10:03:29] "GET /xmlrpc.php HTTP/1.1" 404 2425
+Not Found: /wls-wsat/CoordinatorPortType
+[05/Jan/2018 10:43:32] "GET /wls-wsat/CoordinatorPortType HTTP/1.1" 404 2479
+[05/Jan/2018 10:48:12] "HEAD /static/home/images/logo.png HTTP/1.1" 404 1676
+Not Found: /master-status
+[05/Jan/2018 10:54:26] "GET /master-status HTTP/1.1" 404 2434
+[05/Jan/2018 10:54:41] "GET / HTTP/1.1" 200 6251
+Not Found: /phpmyadmin/
+[05/Jan/2018 10:55:55] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[05/Jan/2018 10:55:56] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /phpmyadmin/
+[05/Jan/2018 10:55:56] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[05/Jan/2018 10:55:56] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /phpmyadmin/
+[05/Jan/2018 10:55:56] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[05/Jan/2018 10:55:56] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /phpmyadmin/
+[05/Jan/2018 10:55:56] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[05/Jan/2018 10:55:56] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /phpmyadmin/
+[05/Jan/2018 10:55:56] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[05/Jan/2018 10:55:56] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /phpmyadmin/
+[05/Jan/2018 10:55:56] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[05/Jan/2018 10:55:56] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /phpmyadmin/
+[05/Jan/2018 10:55:56] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[05/Jan/2018 10:55:56] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /phpmyadmin/
+[05/Jan/2018 10:55:56] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[05/Jan/2018 10:55:56] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /phpmyadmin/
+[05/Jan/2018 10:55:57] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[05/Jan/2018 10:55:57] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /phpmyadmin/
+[05/Jan/2018 10:55:57] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[05/Jan/2018 10:55:57] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /rs-status
+[05/Jan/2018 11:11:46] "GET /rs-status HTTP/1.1" 404 2422
+Not Found: /ganglia/index.php
+[05/Jan/2018 11:18:18] "GET /ganglia/index.php HTTP/1.1" 404 2446
+Not Found: /index.php
+[05/Jan/2018 11:22:05] "GET /index.php HTTP/1.1" 404 2422
+Not Found: /jobs/
+[05/Jan/2018 11:35:00] "GET /jobs/ HTTP/1.1" 404 2410
+Not Found: /msftqwrlykdz
+[05/Jan/2018 11:46:20] "POST /msftqwrlykdz HTTP/1.1" 404 2432
+Not Found: /msftqwrlykdz
+[05/Jan/2018 11:46:20] "GET /msftqwrlykdz HTTP/1.1" 404 2431
+Not Found: /msftqwrlykdz
+[05/Jan/2018 11:46:20] "DELETE /msftqwrlykdz HTTP/1.1" 404 2434
+[05/Jan/2018 11:48:18] "GET / HTTP/1.1" 200 6251
+[05/Jan/2018 12:05:39] "GET / HTTP/1.1" 200 6251
+Not Found: /echo.php
+[05/Jan/2018 12:06:58] "GET /echo.php?info=1234567890 HTTP/1.1" 404 2440
+[05/Jan/2018 12:09:38] "GET / HTTP/1.1" 200 6251
+Not Found: /hwi/
+[05/Jan/2018 12:18:03] "GET /hwi/ HTTP/1.1" 404 2407
+[05/Jan/2018 12:28:50] "GET / HTTP/1.1" 200 6251
+Not Found: /dfshealth.html
+[05/Jan/2018 12:31:12] "GET /dfshealth.html HTTP/1.1" 404 2437
+Not Found: /http://47.94.228.162:8080
+[05/Jan/2018 12:46:05] "GET /http://47.94.228.162:8080 HTTP/1.1" 404 2470
+Not Found: /http://47.94.228.162:8081
+[05/Jan/2018 12:47:05] "GET /http://47.94.228.162:8081 HTTP/1.1" 404 2470
+Not Found: /http://47.94.228.162:8090
+[05/Jan/2018 12:49:46] "GET /http://47.94.228.162:8090 HTTP/1.1" 404 2470
+Not Found: /cache/global/img/gs.gif
+[05/Jan/2018 13:32:00] "GET /cache/global/img/gs.gif HTTP/1.1" 404 2464
+[05/Jan/2018 16:21:20] "GET / HTTP/1.1" 200 6251
+[05/Jan/2018 16:25:05] "GET / HTTP/1.1" 200 6251
+[05/Jan/2018 16:56:00] "GET / HTTP/1.1" 200 6251
+Not Found: /wls-wsat/CoordinatorPortType
+[05/Jan/2018 17:57:18] "GET /wls-wsat/CoordinatorPortType HTTP/1.1" 404 2479
+Not Found: /master-status
+[05/Jan/2018 18:14:19] "GET /master-status HTTP/1.1" 404 2434
+[05/Jan/2018 18:14:20] "GET / HTTP/1.1" 200 6251
+Not Found: /phpmyadmin/
+[05/Jan/2018 18:23:06] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[05/Jan/2018 18:23:06] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /phpmyadmin/
+[05/Jan/2018 18:23:06] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[05/Jan/2018 18:23:06] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /phpmyadmin/
+[05/Jan/2018 18:23:06] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[05/Jan/2018 18:23:06] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /phpmyadmin/
+[05/Jan/2018 18:23:06] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[05/Jan/2018 18:23:07] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /phpmyadmin/
+[05/Jan/2018 18:23:07] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[05/Jan/2018 18:23:07] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /phpmyadmin/
+[05/Jan/2018 18:23:07] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[05/Jan/2018 18:23:07] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /phpmyadmin/
+[05/Jan/2018 18:23:07] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[05/Jan/2018 18:23:07] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /phpmyadmin/
+[05/Jan/2018 18:23:07] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[05/Jan/2018 18:23:07] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /phpmyadmin/
+[05/Jan/2018 18:23:07] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[05/Jan/2018 18:23:07] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /phpmyadmin/
+[05/Jan/2018 18:23:07] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[05/Jan/2018 18:23:07] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /wwwroot.zip
+[05/Jan/2018 18:40:56] "HEAD /wwwroot.zip HTTP/1.1" 404 2429
+Not Found: /rs-status
+[05/Jan/2018 18:43:54] "GET /rs-status HTTP/1.1" 404 2422
+Not Found: /ganglia/index.php
+[05/Jan/2018 18:57:20] "GET /ganglia/index.php HTTP/1.1" 404 2446
+Not Found: /muieblackcat
+[05/Jan/2018 22:17:17] "GET /muieblackcat HTTP/1.1" 404 2431
+Not Found: //phpMyAdmin/scripts/setup.php
+[05/Jan/2018 22:17:17] "GET //phpMyAdmin/scripts/setup.php HTTP/1.1" 404 2482
+Not Found: //phpmyadmin/scripts/setup.php
+[05/Jan/2018 22:17:18] "GET //phpmyadmin/scripts/setup.php HTTP/1.1" 404 2482
+Not Found: //pma/scripts/setup.php
+[05/Jan/2018 22:17:19] "GET //pma/scripts/setup.php HTTP/1.1" 404 2461
+Not Found: //myadmin/scripts/setup.php
+[05/Jan/2018 22:17:19] "GET //myadmin/scripts/setup.php HTTP/1.1" 404 2473
+Not Found: //MyAdmin/scripts/setup.php
+[05/Jan/2018 22:17:20] "GET //MyAdmin/scripts/setup.php HTTP/1.1" 404 2473
+Not Found: /cache/global/img/gs.gif
+[05/Jan/2018 22:37:11] "GET /cache/global/img/gs.gif HTTP/1.1" 404 2464
+[06/Jan/2018 00:31:13] "GET / HTTP/1.1" 200 6251
+Not Found: /strack/project/4.html
+[06/Jan/2018 03:40:50] "GET /strack/project/4.html HTTP/1.1" 404 2458
+Not Found: /strack/entity/4_40_4.html
+[06/Jan/2018 03:40:50] "GET /strack/entity/4_40_4.html HTTP/1.1" 404 2470
+[06/Jan/2018 04:51:59] "GET / HTTP/1.1" 200 6251
+Not Found: /hm.gif
+[06/Jan/2018 06:26:05] "GET /hm.gif HTTP/1.1" 404 2412
+[06/Jan/2018 08:27:28] "GET / HTTP/1.1" 200 6251
+Not Found: /echo.php
+[06/Jan/2018 09:24:46] "GET /echo.php?info=1234567890 HTTP/1.1" 404 2440
+Not Found: /wls-wsat/CoordinatorPortType
+[06/Jan/2018 10:12:29] "GET /wls-wsat/CoordinatorPortType HTTP/1.1" 404 2479
+Not Found: /master-status
+[06/Jan/2018 10:18:54] "GET /master-status HTTP/1.1" 404 2434
+[06/Jan/2018 10:19:01] "GET / HTTP/1.1" 200 6251
+Not Found: /phpmyadmin/
+[06/Jan/2018 10:27:30] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[06/Jan/2018 10:27:30] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /phpmyadmin/
+[06/Jan/2018 10:27:30] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[06/Jan/2018 10:27:30] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /phpmyadmin/
+[06/Jan/2018 10:27:30] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[06/Jan/2018 10:27:30] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /phpmyadmin/
+[06/Jan/2018 10:27:30] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[06/Jan/2018 10:27:30] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /phpmyadmin/
+[06/Jan/2018 10:27:30] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[06/Jan/2018 10:27:30] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /phpmyadmin/
+[06/Jan/2018 10:27:30] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[06/Jan/2018 10:27:30] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /phpmyadmin/
+[06/Jan/2018 10:27:30] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[06/Jan/2018 10:27:31] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /phpmyadmin/
+[06/Jan/2018 10:27:31] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[06/Jan/2018 10:27:31] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /phpmyadmin/
+[06/Jan/2018 10:27:31] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[06/Jan/2018 10:27:31] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /phpmyadmin/
+[06/Jan/2018 10:27:31] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[06/Jan/2018 10:27:31] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /rs-status
+[06/Jan/2018 10:36:22] "GET /rs-status HTTP/1.1" 404 2422
+Not Found: /ganglia/index.php
+[06/Jan/2018 10:40:43] "GET /ganglia/index.php HTTP/1.1" 404 2446
+Not Found: /index.php
+[06/Jan/2018 10:44:11] "GET /index.php HTTP/1.1" 404 2422
+Not Found: /jobs/
+[06/Jan/2018 10:48:12] "GET /jobs/ HTTP/1.1" 404 2410
+Not Found: /epkajtwsfhdz
+[06/Jan/2018 10:57:26] "POST /epkajtwsfhdz HTTP/1.1" 404 2432
+Not Found: /epkajtwsfhdz
+[06/Jan/2018 10:57:26] "GET /epkajtwsfhdz HTTP/1.1" 404 2431
+Not Found: /epkajtwsfhdz
+[06/Jan/2018 10:57:26] "DELETE /epkajtwsfhdz HTTP/1.1" 404 2434
+[06/Jan/2018 10:59:44] "GET / HTTP/1.1" 200 6251
+[06/Jan/2018 11:19:55] "GET / HTTP/1.1" 200 6251
+[06/Jan/2018 11:20:45] "GET / HTTP/1.1" 200 6251
+Not Found: /hwi/
+[06/Jan/2018 11:26:29] "GET /hwi/ HTTP/1.1" 404 2407
+[06/Jan/2018 11:35:59] "GET / HTTP/1.1" 200 6251
+Not Found: /dfshealth.html
+[06/Jan/2018 11:37:49] "GET /dfshealth.html HTTP/1.1" 404 2437
+Not Found: /http://47.94.228.162:8080
+[06/Jan/2018 11:39:01] "GET /http://47.94.228.162:8080 HTTP/1.1" 404 2470
+Not Found: /http://47.94.228.162:8081
+[06/Jan/2018 11:40:15] "GET /http://47.94.228.162:8081 HTTP/1.1" 404 2470
+Not Found: /http://47.94.228.162:8090
+[06/Jan/2018 11:41:23] "GET /http://47.94.228.162:8090 HTTP/1.1" 404 2470
+Not Found: /clusters.jsf
+[06/Jan/2018 11:43:52] "GET /clusters.jsf HTTP/1.1" 404 2431
+[06/Jan/2018 11:44:24] "GET / HTTP/1.1" 200 6251
+Not Found: /jenkins/
+[06/Jan/2018 11:44:31] "GET /jenkins/ HTTP/1.1" 404 2419
+Not Found: /zabbix/
+[06/Jan/2018 11:44:43] "GET /zabbix/ HTTP/1.1" 404 2416
+[06/Jan/2018 11:44:44] "GET / HTTP/1.1" 200 6251
+Not Found: /solr/
+[06/Jan/2018 11:44:46] "GET /solr/ HTTP/1.1" 404 2410
+[06/Jan/2018 11:44:47] "GET / HTTP/1.1" 200 6251
+Not Found: /info
+[06/Jan/2018 11:45:01] "GET /info HTTP/1.1" 404 2407
+Not Found: /about/
+[06/Jan/2018 11:45:24] "GET /about/ HTTP/1.1" 404 2413
+Not Found: /warning
+[06/Jan/2018 11:45:30] "GET /warning HTTP/1.1" 404 2416
+Not Found: /pleasereadthis
+[06/Jan/2018 11:45:36] "GET /pleasereadthis HTTP/1.1" 404 2437
+Not Found: /please_read/_search
+[06/Jan/2018 11:45:42] "GET /please_read/_search HTTP/1.1" 404 2452
+Not Found: /dfshealth.jsp
+[06/Jan/2018 11:45:48] "GET /dfshealth.jsp HTTP/1.1" 404 2434
+Not Found: /hadoop/dfshealth.jsp
+[06/Jan/2018 11:45:48] "GET /hadoop/dfshealth.jsp HTTP/1.1" 404 2455
+Not Found: /cache/global/img/gs.gif
+[06/Jan/2018 12:07:13] "GET /cache/global/img/gs.gif HTTP/1.1" 404 2464
+[06/Jan/2018 12:19:25] "GET / HTTP/1.1" 200 6251
+Not Found: /wls-wsat/CoordinatorPortType
+[06/Jan/2018 15:29:24] "GET /wls-wsat/CoordinatorPortType HTTP/1.1" 404 2479
+Not Found: /master-status
+[06/Jan/2018 15:34:39] "GET /master-status HTTP/1.1" 404 2434
+[06/Jan/2018 15:34:43] "GET / HTTP/1.1" 200 6251
+Not Found: /phpmyadmin/
+[06/Jan/2018 15:39:10] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[06/Jan/2018 15:39:10] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /phpmyadmin/
+[06/Jan/2018 15:39:11] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[06/Jan/2018 15:39:11] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /phpmyadmin/
+[06/Jan/2018 15:39:11] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[06/Jan/2018 15:39:11] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /phpmyadmin/
+[06/Jan/2018 15:39:11] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[06/Jan/2018 15:39:11] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /phpmyadmin/
+[06/Jan/2018 15:39:11] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[06/Jan/2018 15:39:11] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /phpmyadmin/
+[06/Jan/2018 15:39:11] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[06/Jan/2018 15:39:11] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /phpmyadmin/
+[06/Jan/2018 15:39:11] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[06/Jan/2018 15:39:11] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /phpmyadmin/
+[06/Jan/2018 15:39:11] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[06/Jan/2018 15:39:11] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /phpmyadmin/
+[06/Jan/2018 15:39:12] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[06/Jan/2018 15:39:12] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /phpmyadmin/
+[06/Jan/2018 15:39:12] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[06/Jan/2018 15:39:12] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /rs-status
+[06/Jan/2018 15:44:55] "GET /rs-status HTTP/1.1" 404 2422
+Not Found: /ganglia/index.php
+[06/Jan/2018 15:48:51] "GET /ganglia/index.php HTTP/1.1" 404 2446
+Not Found: /index.php
+[06/Jan/2018 15:52:00] "GET /index.php HTTP/1.1" 404 2422
+Not Found: /jobs/
+[06/Jan/2018 16:02:52] "GET /jobs/ HTTP/1.1" 404 2410
+[06/Jan/2018 16:07:45] "GET / HTTP/1.1" 200 6251
+Not Found: /huvbwxsdkgyo
+[06/Jan/2018 16:12:10] "POST /huvbwxsdkgyo HTTP/1.1" 404 2432
+Not Found: /huvbwxsdkgyo
+[06/Jan/2018 16:12:10] "GET /huvbwxsdkgyo HTTP/1.1" 404 2431
+Not Found: /huvbwxsdkgyo
+[06/Jan/2018 16:12:10] "DELETE /huvbwxsdkgyo HTTP/1.1" 404 2434
+[06/Jan/2018 16:13:09] "GET / HTTP/1.1" 200 6251
+[06/Jan/2018 16:23:03] "GET / HTTP/1.1" 200 6251
+[06/Jan/2018 16:23:25] "GET / HTTP/1.1" 200 6251
+Not Found: /ccvv
+[06/Jan/2018 16:24:47] "GET /ccvv HTTP/1.1" 404 2407
+[06/Jan/2018 16:25:27] "GET / HTTP/1.1" 200 6251
+Not Found: /hwi/
+[06/Jan/2018 16:33:19] "GET /hwi/ HTTP/1.1" 404 2407
+[06/Jan/2018 16:42:59] "GET / HTTP/1.1" 200 6251
+Not Found: /dfshealth.html
+[06/Jan/2018 16:44:24] "GET /dfshealth.html HTTP/1.1" 404 2437
+Not Found: /http://47.94.228.162:8080
+[06/Jan/2018 16:47:56] "GET /http://47.94.228.162:8080 HTTP/1.1" 404 2470
+Not Found: /http://47.94.228.162:8081
+[06/Jan/2018 16:49:25] "GET /http://47.94.228.162:8081 HTTP/1.1" 404 2470
+Not Found: /http://47.94.228.162:8090
+[06/Jan/2018 16:50:51] "GET /http://47.94.228.162:8090 HTTP/1.1" 404 2470
+Not Found: /clusters.jsf
+[06/Jan/2018 16:53:15] "GET /clusters.jsf HTTP/1.1" 404 2431
+[06/Jan/2018 16:55:20] "GET / HTTP/1.1" 200 6251
+Not Found: /jenkins/
+[06/Jan/2018 16:58:57] "GET /jenkins/ HTTP/1.1" 404 2419
+Not Found: /zabbix/
+[06/Jan/2018 17:04:49] "GET /zabbix/ HTTP/1.1" 404 2416
+[06/Jan/2018 17:12:35] "GET / HTTP/1.1" 200 6251
+Not Found: /solr/
+[06/Jan/2018 17:16:26] "GET /solr/ HTTP/1.1" 404 2410
+[06/Jan/2018 17:18:00] "GET / HTTP/1.1" 200 6251
+Not Found: /info
+[06/Jan/2018 17:19:35] "GET /info HTTP/1.1" 404 2407
+Not Found: /about/
+[06/Jan/2018 17:28:36] "GET /about/ HTTP/1.1" 404 2413
+Not Found: /warning
+[06/Jan/2018 17:36:20] "GET /warning HTTP/1.1" 404 2416
+[06/Jan/2018 17:37:25] "GET / HTTP/1.1" 200 6251
+Not Found: /pleasereadthis
+[06/Jan/2018 17:40:01] "GET /pleasereadthis HTTP/1.1" 404 2437
+Not Found: /please_read/_search
+[06/Jan/2018 17:45:04] "GET /please_read/_search HTTP/1.1" 404 2452
+Not Found: /dfshealth.jsp
+[06/Jan/2018 17:46:34] "GET /dfshealth.jsp HTTP/1.1" 404 2434
+Not Found: /hadoop/dfshealth.jsp
+[06/Jan/2018 17:47:22] "GET /hadoop/dfshealth.jsp HTTP/1.1" 404 2455
+Not Found: /cache/global/img/gs.gif
+[06/Jan/2018 19:23:55] "GET /cache/global/img/gs.gif HTTP/1.1" 404 2464
+[06/Jan/2018 22:02:05] "GET / HTTP/1.1" 200 6251
+[07/Jan/2018 00:20:07] "GET / HTTP/1.1" 200 6251
+Not Found: /strack/Admin/about.html
+[07/Jan/2018 01:20:49] "GET /strack/Admin/about.html HTTP/1.1" 404 2464
+Not Found: /strack/admin/tags.html
+[07/Jan/2018 01:20:49] "GET /strack/admin/tags.html HTTP/1.1" 404 2461
+Not Found: /cache/global/img/gs.gif
+[07/Jan/2018 04:43:54] "GET /cache/global/img/gs.gif HTTP/1.1" 404 2464
+[07/Jan/2018 05:15:12] "GET / HTTP/1.1" 200 6251
+[07/Jan/2018 06:00:05] "GET / HTTP/1.1" 200 6251
+[07/Jan/2018 06:00:05] "GET /static/res/bootstrap-4.0.0-beta.2/css/bootstrap.css HTTP/1.1" 200 159202
+[07/Jan/2018 06:00:05] "GET /static/res/bootstrap-4.0.0-beta.2/ecss/carousel.css HTTP/1.1" 200 1658
+[07/Jan/2018 06:00:05] "GET /static/res/bootstrap-4.0.0-beta.2/assets/js/vendor/popper.min.js HTTP/1.1" 200 19197
+[07/Jan/2018 06:00:06] "GET /static/res/bootstrap-4.0.0-beta.2/js/bootstrap.min.js HTTP/1.1" 200 50564
+[07/Jan/2018 06:00:07] "GET /static/res/bootstrap-4.0.0-beta.2/assets/js/vendor/holder.min.js HTTP/1.1" 200 32283
+[07/Jan/2018 06:00:14] "GET /author/liucixin HTTP/1.1" 301 0
+[07/Jan/2018 06:00:14] "GET /author/liucixin/ HTTP/1.1" 200 272960
+[07/Jan/2018 06:00:14] "GET /static/res/bootstrap-4.0.0-beta.2/ecss/dashboard.css HTTP/1.1" 200 837
+[07/Jan/2018 06:00:39] "GET /author/huanglaozhuang HTTP/1.1" 301 0
+[07/Jan/2018 06:00:39] "GET /author/huanglaozhuang/ HTTP/1.1" 200 252068
+[07/Jan/2018 08:19:43] "GET / HTTP/1.1" 200 6251
+Not Found: /phpmyadmin/scripts/setup.php
+[07/Jan/2018 09:33:33] "GET /phpmyadmin/scripts/setup.php HTTP/1.1" 404 2475
+Not Found: /echo.php
+[07/Jan/2018 09:39:13] "GET /echo.php?info=1234567890 HTTP/1.1" 404 2440
+Not Found: /wls-wsat/CoordinatorPortType
+[07/Jan/2018 10:00:28] "GET /wls-wsat/CoordinatorPortType HTTP/1.1" 404 2479
+Not Found: /master-status
+[07/Jan/2018 10:16:31] "GET /master-status HTTP/1.1" 404 2434
+[07/Jan/2018 10:16:39] "GET / HTTP/1.1" 200 6251
+Not Found: /phpmyadmin/
+[07/Jan/2018 10:33:50] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[07/Jan/2018 10:33:50] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /phpmyadmin/
+[07/Jan/2018 10:33:50] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[07/Jan/2018 10:33:50] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /phpmyadmin/
+[07/Jan/2018 10:33:50] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[07/Jan/2018 10:33:50] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /phpmyadmin/
+[07/Jan/2018 10:33:50] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[07/Jan/2018 10:33:50] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /phpmyadmin/
+[07/Jan/2018 10:33:50] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[07/Jan/2018 10:33:50] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /phpmyadmin/
+[07/Jan/2018 10:33:50] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[07/Jan/2018 10:33:50] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /phpmyadmin/
+[07/Jan/2018 10:33:51] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[07/Jan/2018 10:33:51] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /phpmyadmin/
+[07/Jan/2018 10:33:51] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[07/Jan/2018 10:33:51] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /phpmyadmin/
+[07/Jan/2018 10:33:51] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[07/Jan/2018 10:33:51] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /phpmyadmin/
+[07/Jan/2018 10:33:51] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[07/Jan/2018 10:33:51] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /rs-status
+[07/Jan/2018 10:55:18] "GET /rs-status HTTP/1.1" 404 2422
+Not Found: /cache/global/img/gs.gif
+[07/Jan/2018 10:55:31] "GET /cache/global/img/gs.gif HTTP/1.1" 404 2464
+Not Found: /azenv.php
+[07/Jan/2018 13:16:47] "POST /azenv.php?auth=151533100791&a=PSCN&i=794748066&p=80 HTTP/1.1" 404 2485
+Not Found: /wls-wsat/CoordinatorPortType
+[07/Jan/2018 13:31:06] "GET /wls-wsat/CoordinatorPortType HTTP/1.1" 404 2479
+Not Found: /wls-wsat/CoordinatorPortType
+[07/Jan/2018 15:21:38] "GET /wls-wsat/CoordinatorPortType HTTP/1.1" 404 2479
+Not Found: /master-status
+[07/Jan/2018 15:32:04] "GET /master-status HTTP/1.1" 404 2434
+[07/Jan/2018 15:32:24] "GET / HTTP/1.1" 200 6251
+Not Found: /phpmyadmin/
+[07/Jan/2018 15:35:08] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[07/Jan/2018 15:35:08] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /phpmyadmin/
+[07/Jan/2018 15:35:08] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[07/Jan/2018 15:35:08] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /phpmyadmin/
+[07/Jan/2018 15:35:08] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[07/Jan/2018 15:35:08] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /phpmyadmin/
+[07/Jan/2018 15:35:08] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[07/Jan/2018 15:35:08] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /phpmyadmin/
+[07/Jan/2018 15:35:08] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[07/Jan/2018 15:35:08] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /phpmyadmin/
+[07/Jan/2018 15:35:08] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[07/Jan/2018 15:35:08] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /phpmyadmin/
+[07/Jan/2018 15:35:09] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[07/Jan/2018 15:35:09] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /phpmyadmin/
+[07/Jan/2018 15:35:09] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[07/Jan/2018 15:35:09] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /phpmyadmin/
+[07/Jan/2018 15:35:09] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[07/Jan/2018 15:35:09] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /phpmyadmin/
+[07/Jan/2018 15:35:09] "GET /phpmyadmin/ HTTP/1.1" 404 2428
+Not Found: /phpmyadmin/
+[07/Jan/2018 15:35:09] "POST /phpmyadmin/ HTTP/1.1" 404 2429
+Not Found: /rs-status
+[07/Jan/2018 15:36:11] "GET /rs-status HTTP/1.1" 404 2422
+Not Found: /ganglia/index.php
+[07/Jan/2018 15:40:07] "GET /ganglia/index.php HTTP/1.1" 404 2446
+Not Found: /index.php
+[07/Jan/2018 15:43:40] "GET /index.php HTTP/1.1" 404 2422
+Not Found: /jobs/
+[07/Jan/2018 15:48:46] "GET /jobs/ HTTP/1.1" 404 2410
+Not Found: /ivcfebolknwz
+[07/Jan/2018 15:56:43] "POST /ivcfebolknwz HTTP/1.1" 404 2432
+Not Found: /ivcfebolknwz
+[07/Jan/2018 15:56:43] "GET /ivcfebolknwz HTTP/1.1" 404 2431
+Not Found: /ivcfebolknwz
+[07/Jan/2018 15:56:43] "DELETE /ivcfebolknwz HTTP/1.1" 404 2434
+[07/Jan/2018 16:00:01] "GET / HTTP/1.1" 200 6251
+Not Found: /azenv.php
+[07/Jan/2018 16:09:45] "GET /azenv.php HTTP/1.1" 404 2424
+[07/Jan/2018 16:13:47] "GET / HTTP/1.1" 200 6251
+[07/Jan/2018 16:19:26] "GET / HTTP/1.1" 200 6251
+Not Found: /cache/global/img/gs.gif
+[07/Jan/2018 16:23:55] "GET /cache/global/img/gs.gif HTTP/1.1" 404 2464
+Not Found: /hwi/
+[07/Jan/2018 16:29:26] "GET /hwi/ HTTP/1.1" 404 2407
+[07/Jan/2018 16:36:39] "GET / HTTP/1.1" 200 6251
+[07/Jan/2018 16:43:57] "GET / HTTP/1.1" 200 6251
+Not Found: /dfshealth.html
+[07/Jan/2018 16:45:40] "GET /dfshealth.html HTTP/1.1" 404 2437
+Not Found: /http://47.94.228.162:8080
+[07/Jan/2018 16:49:33] "GET /http://47.94.228.162:8080 HTTP/1.1" 404 2470
+Not Found: /http://47.94.228.162:8081
+[07/Jan/2018 16:51:26] "GET /http://47.94.228.162:8081 HTTP/1.1" 404 2470
+Not Found: /http://47.94.228.162:8090
+[07/Jan/2018 16:53:21] "GET /http://47.94.228.162:8090 HTTP/1.1" 404 2470
+Not Found: /clusters.jsf
+[07/Jan/2018 16:56:51] "GET /clusters.jsf HTTP/1.1" 404 2431
+[07/Jan/2018 17:00:21] "GET / HTTP/1.1" 200 6251
+Not Found: /jenkins/
+[07/Jan/2018 17:07:59] "GET /jenkins/ HTTP/1.1" 404 2419
+Not Found: /zabbix/
+[07/Jan/2018 17:21:23] "GET /zabbix/ HTTP/1.1" 404 2416
+[07/Jan/2018 17:22:46] "GET / HTTP/1.1" 200 6251
+Not Found: /solr/
+[07/Jan/2018 17:23:31] "GET /solr/ HTTP/1.1" 404 2410
+[07/Jan/2018 17:23:53] "GET / HTTP/1.1" 200 6251
+Not Found: /info
+[07/Jan/2018 17:25:04] "GET /info HTTP/1.1" 404 2407
+Not Found: /about/
+[07/Jan/2018 17:30:32] "GET /about/ HTTP/1.1" 404 2413
+Not Found: /warning
+[07/Jan/2018 17:33:32] "GET /warning HTTP/1.1" 404 2416
+Not Found: /pleasereadthis
+[07/Jan/2018 17:35:43] "GET /pleasereadthis HTTP/1.1" 404 2437
+Not Found: /please_read/_search
+[07/Jan/2018 17:37:05] "GET /please_read/_search HTTP/1.1" 404 2452
+Not Found: /dfshealth.jsp
+[07/Jan/2018 17:37:11] "GET /dfshealth.jsp HTTP/1.1" 404 2434
+Not Found: /hadoop/dfshealth.jsp
+[07/Jan/2018 17:37:12] "GET /hadoop/dfshealth.jsp HTTP/1.1" 404 2455
+Not Found: /sftp-config.json
+[07/Jan/2018 18:14:17] "GET /sftp-config.json HTTP/1.1" 404 2443
+Not Found: /.ftpconfig
+[07/Jan/2018 18:14:18] "GET /.ftpconfig HTTP/1.1" 404 2425
+Not Found: /.vscode/ftp-sync.json
+[07/Jan/2018 18:14:18] "GET /.vscode/ftp-sync.json HTTP/1.1" 404 2458
+Not Found: /azenv.php
+[07/Jan/2018 19:07:53] "GET /azenv.php HTTP/1.1" 404 2424
+Not Found: /azenv.php
+[07/Jan/2018 21:02:24] "POST /azenv.php?auth=151535894477&a=PSCN&i=794748066&p=80 HTTP/1.1" 404 2485
+Not Found: /azenv.php
+[07/Jan/2018 22:44:05] "GET /azenv.php HTTP/1.1" 404 2424
+[08/Jan/2018 01:45:29] "GET / HTTP/1.1" 200 6251
+Performing system checks...
+
+System check identified no issues (0 silenced).
+December 29, 2017 - 16:56:15
+Django version 1.11.8, using settings 'Read.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CONTROL-C.
